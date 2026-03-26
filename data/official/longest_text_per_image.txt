@@ -1,0 +1,1500 @@
+COCO_train2014_000000000716.jpg	weird looking object on the score side close to answer box
+COCO_train2014_000000000909.jpg	monitor the one that you cant see the screen of
+COCO_train2014_000000001298.jpg	seated man eating from styrofoam tray
+COCO_train2014_000000001488.jpg	animal being bottled fed
+COCO_train2014_000000001507.jpg	the wood of the table almost there
+COCO_train2014_000000001947.jpg	the bald man in the black shirt
+COCO_train2014_000000001958.jpg	chair behind woman in black and gray
+COCO_train2014_000000002567.jpg	girl in black behiand girl in gray
+COCO_train2014_000000002742.jpg	person furthest away
+COCO_train2014_000000002823.jpg	bike with dual exhaust sticking out only rear of bike
+COCO_train2014_000000002964.jpg	bottle next to relax
+COCO_train2014_000000003000.jpg	man holding wiimote strap
+COCO_train2014_000000003518.jpg	banna under heart
+COCO_train2014_000000005424.jpg	father
+COCO_train2014_000000005587.jpg	plate of food closest to sky
+COCO_train2014_000000005614.jpg	batter in blue shirt
+COCO_train2014_000000005638.jpg	person in all black next to the orange and black thing that looks like arrows
+COCO_train2014_000000006051.jpg	boots without white frilly tops
+COCO_train2014_000000006747.jpg	girl with pink print shirt
+COCO_train2014_000000007129.jpg	skier in light blue jacket
+COCO_train2014_000000008436.jpg	all black partially hidden by umbrella
+COCO_train2014_000000009185.jpg	the orange directly below the biggest furthest orange
+COCO_train2014_000000010176.jpg	green striped shirt
+COCO_train2014_000000010710.jpg	catcher
+COCO_train2014_000000010727.jpg	the person next to the one with the hat that is complete covered
+COCO_train2014_000000010870.jpg	the computer looking at spider porn obscured by the pole
+COCO_train2014_000000011292.jpg	man with glasses heavier set
+COCO_train2014_000000012382.jpg	larger zebra
+COCO_train2014_000000012790.jpg	slice in air
+COCO_train2014_000000013318.jpg	man in blue suit with sunglasses
+COCO_train2014_000000013352.jpg	bush under the tree not the cactus
+COCO_train2014_000000013372.jpg	boat with the numbers on the hull
+COCO_train2014_000000013576.jpg	woman texting on phone
+COCO_train2014_000000014686.jpg	shorter fully visible giraffe face away from camara
+COCO_train2014_000000014709.jpg	player in blue and yellow wiith batting hat on
+COCO_train2014_000000015554.jpg	silver suv across the street
+COCO_train2014_000000015750.jpg	blue toilet nearest the pink one
+COCO_train2014_000000016465.jpg	white clothing guy
+COCO_train2014_000000016814.jpg	person carrying black umbrella
+COCO_train2014_000000017451.jpg	click meter closest front
+COCO_train2014_000000017578.jpg	person with white viser on cooking
+COCO_train2014_000000017587.jpg	girl in sleeveless shirt
+COCO_train2014_000000018211.jpg	cat laying on the leopard pillow
+COCO_train2014_000000018244.jpg	short empty glass cut off of the side of the photograph
+COCO_train2014_000000018290.jpg	guy with number 24
+COCO_train2014_000000018292.jpg	orange in full view above other orange in full view
+COCO_train2014_000000018370.jpg	silver bike in back near a chair
+COCO_train2014_000000018780.jpg	gray wine bottle opposit glass
+COCO_train2014_000000020513.jpg	glass showing stem only or least visible glass
+COCO_train2014_000000021206.jpg	cow in back not facing straight
+COCO_train2014_000000022575.jpg	person furthest from auto
+COCO_train2014_000000022740.jpg	a family pic guy has yellow shirt on
+COCO_train2014_000000022890.jpg	the bed closest to us
+COCO_train2014_000000022928.jpg	the dog that woman is touching
+COCO_train2014_000000023141.jpg	pizza farthest away
+COCO_train2014_000000023603.jpg	boy in green shirt dark pants
+COCO_train2014_000000023967.jpg	i said jk silver tie
+COCO_train2014_000000024026.jpg	boy in yellow shirt blond
+COCO_train2014_000000024086.jpg	gray item by the little girl in pink
+COCO_train2014_000000024674.jpg	man is seated behind the girl with the scarf
+COCO_train2014_000000024939.jpg	striped shirt guy the one with no hat
+COCO_train2014_000000025353.jpg	girl on the ground
+COCO_train2014_000000025515.jpg	bird on hand without persons body
+COCO_train2014_000000025628.jpg	girl blue shirt facing away from us
+COCO_train2014_000000026052.jpg	glass of water with lemon beside the hand
+COCO_train2014_000000026498.jpg	guy standing with hands on fence showing the most legs
+COCO_train2014_000000026997.jpg	zebra facing away farthest
+COCO_train2014_000000027237.jpg	back of man near boy actually holding kite line
+COCO_train2014_000000027270.jpg	the two pieces of brocolli at the edge of the plate taht has a spider sammich on it
+COCO_train2014_000000027424.jpg	man with beard in striped shirt
+COCO_train2014_000000028451.jpg	lemon that is looking at brown spot on banana
+COCO_train2014_000000028824.jpg	shadowy figure on computer
+COCO_train2014_000000029456.jpg	bus next to old lady in blue coat
+COCO_train2014_000000029601.jpg	woman
+COCO_train2014_000000029915.jpg	bike with the yellow license plate
+COCO_train2014_000000030203.jpg	man with a brown jacket
+COCO_train2014_000000030274.jpg	standing white shirt
+COCO_train2014_000000031112.jpg	smiling attractive woman in blue
+COCO_train2014_000000031418.jpg	pizza that isnt close to us
+COCO_train2014_000000031812.jpg	cheesecake almost halfway eaten
+COCO_train2014_000000032061.jpg	person in pink and red coat
+COCO_train2014_000000034616.jpg	truck grill near skaters
+COCO_train2014_000000034810.jpg	person not holding onto frisbee
+COCO_train2014_000000035045.jpg	piece of paper with writing on it
+COCO_train2014_000000035132.jpg	bike with name plate
+COCO_train2014_000000035817.jpg	empty chair close to blue green dress
+COCO_train2014_000000035844.jpg	closest silver with red tail light
+COCO_train2014_000000035995.jpg	man wearing green beret shaking black suits hand
+COCO_train2014_000000036755.jpg	girafee with face covered
+COCO_train2014_000000037089.jpg	food above fries on side with score
+COCO_train2014_000000037539.jpg	food with tray haning more off of table
+COCO_train2014_000000037719.jpg	legs of person next to lady in red
+COCO_train2014_000000038033.jpg	half of sandwich closest to pretzels
+COCO_train2014_000000038122.jpg	girl looking down with hand under chin
+COCO_train2014_000000038890.jpg	zebra closest to us we see all of
+COCO_train2014_000000040130.jpg	bread that doesnt show everything
+COCO_train2014_000000040380.jpg	the one that is far from the bunch but fully visible
+COCO_train2014_000000040455.jpg	duck with foot going over the edge
+COCO_train2014_000000041005.jpg	farest person from us
+COCO_train2014_000000041988.jpg	higher of the oven door glass
+COCO_train2014_000000043163.jpg	man running on the side correct rounds remaning
+COCO_train2014_000000043892.jpg	plum that is not blurry we cant see stem
+COCO_train2014_000000043998.jpg	bike cut off by picture
+COCO_train2014_000000044437.jpg	man talking to guy in atlanta shirt
+COCO_train2014_000000044788.jpg	black luggage mostly seen and near the orange backpack not the one closest to us
+COCO_train2014_000000045464.jpg	persn with less face showing
+COCO_train2014_000000045672.jpg	man with glasses
+COCO_train2014_000000045840.jpg	blue man being hugged by krista
+COCO_train2014_000000046055.jpg	small vase with flowers painted on it
+COCO_train2014_000000046609.jpg	elephant you dont see kind of brown only a leg
+COCO_train2014_000000047198.jpg	gir at 9 o clock
+COCO_train2014_000000047451.jpg	vehicle behind meter number 2
+COCO_train2014_000000047774.jpg	stone planter with plants in it
+COCO_train2014_000000048572.jpg	small bowl directly behind plate without rice
+COCO_train2014_000000049309.jpg	person standing with wiimote
+COCO_train2014_000000050056.jpg	groom eating cake from the bride
+COCO_train2014_000000050994.jpg	zebra hindquarters whose head is cut out of photo
+COCO_train2014_000000051001.jpg	this chilli dog is leaking too much ketchup
+COCO_train2014_000000051550.jpg	the taller giraffe by a hair
+COCO_train2014_000000051563.jpg	vehicle that is cut off can only see window is black
+COCO_train2014_000000051630.jpg	man in red and blue plaid
+COCO_train2014_000000052086.jpg	guy with the jackt over his head sitting beside the blond
+COCO_train2014_000000052109.jpg	man serving in white shirt
+COCO_train2014_000000052928.jpg	the cutter one next to the asian
+COCO_train2014_000000053304.jpg	man holding spoon and pot
+COCO_train2014_000000053388.jpg	the frontmost single piece of pizza
+COCO_train2014_000000053601.jpg	person in black shirt
+COCO_train2014_000000053643.jpg	white cushion behind brown bottle close to gray shirt
+COCO_train2014_000000053672.jpg	red shirt in the air
+COCO_train2014_000000054318.jpg	bed with a view out the window
+COCO_train2014_000000054805.jpg	teddy not wearing red and not near radiator
+COCO_train2014_000000055232.jpg	the umbrella over the man wearing glasses on his head
+COCO_train2014_000000055237.jpg	woman with black and white shirt necklace earring
+COCO_train2014_000000055618.jpg	man in purple vest and white shirt
+COCO_train2014_000000056028.jpg	woman
+COCO_train2014_000000056604.jpg	number two girl as you read
+COCO_train2014_000000056677.jpg	woman in teal shirt carrying something
+COCO_train2014_000000056738.jpg	man farthest away in black holding camera
+COCO_train2014_000000057551.jpg	larger piece of sandwich
+COCO_train2014_000000057689.jpg	zebra furthest away
+COCO_train2014_000000057699.jpg	smaller stack of clothes
+COCO_train2014_000000057870.jpg	closet chair next to white tablecloth
+COCO_train2014_000000058184.jpg	the sandwich touching cup handle
+COCO_train2014_000000060639.jpg	the swimming bird furthest from the camera
+COCO_train2014_000000061159.jpg	red and black windbreaker
+COCO_train2014_000000061842.jpg	brown shirt
+COCO_train2014_000000061877.jpg	white shirt closest to table
+COCO_train2014_000000061951.jpg	black jacket white pants
+COCO_train2014_000000062038.jpg	the third wine glass with little wine in it
+COCO_train2014_000000062057.jpg	double decker near gray car
+COCO_train2014_000000062348.jpg	chair where person with green bottle would sit
+COCO_train2014_000000064092.jpg	black horse face
+COCO_train2014_000000064619.jpg	the dark color behind this guy not sure if person
+COCO_train2014_000000065136.jpg	white coat you can barely see
+COCO_train2014_000000065842.jpg	orange that juts back the farthest
+COCO_train2014_000000066034.jpg	sandwich where we see blue lights nearest
+COCO_train2014_000000066236.jpg	lady holding umbrella
+COCO_train2014_000000066637.jpg	woman closest and talles in blue shirt and sunglasses
+COCO_train2014_000000067615.jpg	umpire black shirt
+COCO_train2014_000000067748.jpg	white the girl is laying on
+COCO_train2014_000000068287.jpg	person without a shirt on sitting down by the old man in blue
+COCO_train2014_000000068812.jpg	not closer man walking toward us
+COCO_train2014_000000071399.jpg	bowl at 5 o clock
+COCO_train2014_000000071749.jpg	man holding camera in the back
+COCO_train2014_000000071989.jpg	darker shirt
+COCO_train2014_000000072629.jpg	bread with cheese falling off of banana
+COCO_train2014_000000072995.jpg	greyish luggage tallest closest to door
+COCO_train2014_000000073387.jpg	back of least visible zebra
+COCO_train2014_000000073583.jpg	white table by stack of plates
+COCO_train2014_000000073610.jpg	the mans reflection
+COCO_train2014_000000073671.jpg	shadowy person touching frisbee
+COCO_train2014_000000073999.jpg	player with ball closer after not before version
+COCO_train2014_000000074183.jpg	look over from 900 count 1 2 in sitted row closest to us
+COCO_train2014_000000074925.jpg	person facing away from camera in gray shirt
+COCO_train2014_000000074996.jpg	guy in light blue shirt
+COCO_train2014_000000075590.jpg	sunglasses
+COCO_train2014_000000075621.jpg	woman with hand in pocket
+COCO_train2014_000000075843.jpg	couch under windows furthest away
+COCO_train2014_000000075881.jpg	adult zebra
+COCO_train2014_000000076364.jpg	pitcher
+COCO_train2014_000000076414.jpg	white boat holding man in orange
+COCO_train2014_000000076781.jpg	oout of frame elehpant
+COCO_train2014_000000077174.jpg	sandwich half with tomato slice sticking out
+COCO_train2014_000000077417.jpg	screen with more mountain showing
+COCO_train2014_000000077650.jpg	woman hair down pink shirt red shoes
+COCO_train2014_000000078221.jpg	toilet partially obscured by statues nose
+COCO_train2014_000000078307.jpg	the motorcycle directly behind the blue and silver one
+COCO_train2014_000000078322.jpg	bearded guy nearest but not the bearded guy on the edge
+COCO_train2014_000000078572.jpg	the back of the truck not the cab
+COCO_train2014_000000078578.jpg	person half cut of pic
+COCO_train2014_000000078836.jpg	man cutting cake next to woman in red jacket
+COCO_train2014_000000078900.jpg	cow closest to tree with full side showing
+COCO_train2014_000000079111.jpg	bowl holding green fruit
+COCO_train2014_000000079441.jpg	green bottle in front of planter
+COCO_train2014_000000079722.jpg	light brown book next to book that says joy
+COCO_train2014_000000080471.jpg	person closest to bike but not the rider
+COCO_train2014_000000080521.jpg	person holding snowboard horizontally
+COCO_train2014_000000080590.jpg	closest wine glass our corner 2006 is behind it
+COCO_train2014_000000080634.jpg	only 2 piece of pizza at 2pm corner
+COCO_train2014_000000080826.jpg	man sitting in shorts
+COCO_train2014_000000080943.jpg	okay so the giraffe that looks the smallest because he doesnt eat spiders
+COCO_train2014_000000081065.jpg	not showing picture
+COCO_train2014_000000081128.jpg	man holding red umbrella
+COCO_train2014_000000081283.jpg	sandwich on closest plate to us that you can not see all of
+COCO_train2014_000000081317.jpg	woman feeding manblack suv in corner
+COCO_train2014_000000081401.jpg	white shirt red circle black shorts
+COCO_train2014_000000081810.jpg	chair seen mostly from the back
+COCO_train2014_000000082083.jpg	drizzled with frosting
+COCO_train2014_000000083093.jpg	man in red shirt
+COCO_train2014_000000083178.jpg	the person in bright red clothing and pinkpurple head wrap
+COCO_train2014_000000083353.jpg	facing away woman with white shirt dark hair up
+COCO_train2014_000000083448.jpg	black cow laying down and last one you literally clicked between allowed area heh
+COCO_train2014_000000084114.jpg	boy with black mark on face
+COCO_train2014_000000084313.jpg	tan v neck shirt
+COCO_train2014_000000084712.jpg	skier in red and yellow you can barely see
+COCO_train2014_000000084800.jpg	chef with back turn to us
+COCO_train2014_000000085939.jpg	black vase lets kill this hit
+COCO_train2014_000000085960.jpg	boat with white design
+COCO_train2014_000000086217.jpg	bus in back of motor cycle
+COCO_train2014_000000086459.jpg	dog just headlaying down
+COCO_train2014_000000086750.jpg	person eating her fingers
+COCO_train2014_000000086754.jpg	blue jean clad legs
+COCO_train2014_000000086869.jpg	back of person we cant see
+COCO_train2014_000000087248.jpg	boy with red shirt on with other kids
+COCO_train2014_000000087518.jpg	man on tv with white head gear on
+COCO_train2014_000000087554.jpg	girl with umbrella
+COCO_train2014_000000088647.jpg	short couch with black something on it
+COCO_train2014_000000088663.jpg	person in background in gray shirt dark pants
+COCO_train2014_000000088868.jpg	giraffe eating leaves
+COCO_train2014_000000089093.jpg	player holding the mitt with mask on
+COCO_train2014_000000089187.jpg	glasses
+COCO_train2014_000000089921.jpg	girl in white by fence
+COCO_train2014_000000090444.jpg	standing counter distance
+COCO_train2014_000000090830.jpg	silver bowl with ketchup
+COCO_train2014_000000091604.jpg	man behind catcher
+COCO_train2014_000000092165.jpg	donut with pink icing
+COCO_train2014_000000092646.jpg	person partially obscured by the other person
+COCO_train2014_000000093176.jpg	the bed that is only half in the picture
+COCO_train2014_000000093531.jpg	the dog with lowered ears
+COCO_train2014_000000093581.jpg	broccoli piece with gravy and gravy drip on plate
+COCO_train2014_000000094459.jpg	plastic cup on its side
+COCO_train2014_000000094660.jpg	my bad guy tacking the other guy in black
+COCO_train2014_000000095061.jpg	car cutoff at the edge
+COCO_train2014_000000095562.jpg	girl in light brown shirt with red flowers on it
+COCO_train2014_000000095812.jpg	man holding certificate
+COCO_train2014_000000096244.jpg	the full body elephant
+COCO_train2014_000000096475.jpg	dessert on plate with spoon
+COCO_train2014_000000096596.jpg	woman with scarf in background
+COCO_train2014_000000097411.jpg	the one slice of pizza closest to the persons legs
+COCO_train2014_000000097504.jpg	man facing horse not asian man
+COCO_train2014_000000097939.jpg	woman not looking at her cell phone
+COCO_train2014_000000098044.jpg	brocolli all bunched up not the one thats there full and perfect
+COCO_train2014_000000098447.jpg	man with leg out near person with a blurry green flame
+COCO_train2014_000000098631.jpg	parasol with alternating rings of light green and dark green with flowers
+COCO_train2014_000000098641.jpg	guy on the mac laptop in foreground hes white
+COCO_train2014_000000099086.jpg	zebra with only butt showing
+COCO_train2014_000000099727.jpg	train with light gray cars
+COCO_train2014_000000099956.jpg	big black umbrella overhead
+COCO_train2014_000000100034.jpg	boy with tennis racket near red wall and s
+COCO_train2014_000000100209.jpg	boy eating donut
+COCO_train2014_000000101369.jpg	man light colored shirt with glasses
+COCO_train2014_000000101552.jpg	black jacket back to us
+COCO_train2014_000000101646.jpg	the umpire
+COCO_train2014_000000102290.jpg	man crouching behind boy doing trick
+COCO_train2014_000000103223.jpg	white girl jumping
+COCO_train2014_000000103419.jpg	chair closest to us at 30 clocklol
+COCO_train2014_000000103430.jpg	the pice of bread on the score side closest to us
+COCO_train2014_000000103510.jpg	the whole bowl
+COCO_train2014_000000103978.jpg	orange and black jacket
+COCO_train2014_000000104248.jpg	guy yellow shirt
+COCO_train2014_000000104277.jpg	man facing in opposite direction with white shirt on black hair
+COCO_train2014_000000104304.jpg	person holding camera
+COCO_train2014_000000105219.jpg	man holding stuffed animal
+COCO_train2014_000000105685.jpg	eat krispy kream doughnuts
+COCO_train2014_000000105859.jpg	the orange touching the teapot
+COCO_train2014_000000106383.jpg	box showing black microwave
+COCO_train2014_000000106652.jpg	woman
+COCO_train2014_000000106832.jpg	the sanwhich half closer to the orange juice
+COCO_train2014_000000107009.jpg	guy sitting down with the denim jeans
+COCO_train2014_000000107100.jpg	the kitty with his head up
+COCO_train2014_000000107846.jpg	red shirt and standing
+COCO_train2014_000000108375.jpg	woman with arms on table dark hair dark clothes
+COCO_train2014_000000109088.jpg	man in black shirt at counter
+COCO_train2014_000000109895.jpg	person out of frame at 9 o clock
+COCO_train2014_000000110761.jpg	man with blueish shades next to man with vest
+COCO_train2014_000000111002.jpg	blue upside down t on this sheeps back next to one with head up
+COCO_train2014_000000111842.jpg	woman wholly in picture
+COCO_train2014_000000111992.jpg	blue partial cabinet
+COCO_train2014_000000112040.jpg	white truck half out of the picture
+COCO_train2014_000000113032.jpg	blue jacket next to red hair
+COCO_train2014_000000113152.jpg	man checkered shirt
+COCO_train2014_000000113998.jpg	blurry guy gray jacket in back of main guy
+COCO_train2014_000000114249.jpg	bplayer swinging
+COCO_train2014_000000114786.jpg	womans arm on the knife cutting the cake
+COCO_train2014_000000114807.jpg	slice of bread with sauce
+COCO_train2014_000000115604.jpg	the tallest cook wearing a hat
+COCO_train2014_000000115917.jpg	guy above the handshake with glasses
+COCO_train2014_000000116088.jpg	red jacket black plants near board
+COCO_train2014_000000116824.jpg	sheep furthest behind the rest barely can see head
+COCO_train2014_000000116882.jpg	man in black shirt no showing face
+COCO_train2014_000000117182.jpg	couch with owl pillow
+COCO_train2014_000000118697.jpg	guy in red hat
+COCO_train2014_000000118848.jpg	boy swinging bat
+COCO_train2014_000000119093.jpg	guy with arm near eyes in black shirt
+COCO_train2014_000000119534.jpg	item with four leaf clover on it
+COCO_train2014_000000119974.jpg	plane with big propeller
+COCO_train2014_000000120155.jpg	blur of bluejeans near the catchers head
+COCO_train2014_000000120274.jpg	a big stack of ruben sandwich
+COCO_train2014_000000121575.jpg	urinal that is on the same side as the hand you wear a wedding ring on
+COCO_train2014_000000121706.jpg	red shirt bending over with skis
+COCO_train2014_000000121903.jpg	jack knifed truck with red
+COCO_train2014_000000121938.jpg	guy besides the female police touching her holster
+COCO_train2014_000000121965.jpg	cat with tail over edge
+COCO_train2014_000000122667.jpg	short guy standing close to word academy
+COCO_train2014_000000122916.jpg	small child with racket
+COCO_train2014_000000123366.jpg	player with orange shirt
+COCO_train2014_000000123831.jpg	darker brown bigger case not the small one
+COCO_train2014_000000123892.jpg	the person who literally looks black
+COCO_train2014_000000123920.jpg	guy in green shirt watching standing
+COCO_train2014_000000124030.jpg	giraffe bending down lower
+COCO_train2014_000000124580.jpg	guy with his legs crossed with crooked tie
+COCO_train2014_000000125350.jpg	man with glasses and big smile
+COCO_train2014_000000126381.jpg	partial elephant you can not see tusks on
+COCO_train2014_000000127316.jpg	hot dog with less green sauce
+COCO_train2014_000000127388.jpg	female
+COCO_train2014_000000127543.jpg	black vase closest to camera
+COCO_train2014_000000127615.jpg	just the giraffe neck next to the boy in the back
+COCO_train2014_000000127629.jpg	man without glove
+COCO_train2014_000000127657.jpg	blue bed kid is on
+COCO_train2014_000000127729.jpg	elephant with the man wearing black jacket
+COCO_train2014_000000128106.jpg	person in orange shorts
+COCO_train2014_000000128136.jpg	elephant leg which the rest of the body is cut off by pic
+COCO_train2014_000000128599.jpg	person you can only see part of
+COCO_train2014_000000128775.jpg	inside of teh tub
+COCO_train2014_000000128974.jpg	man on motorcycle where the corner of the building would be pointing
+COCO_train2014_000000129722.jpg	red shirt
+COCO_train2014_000000130116.jpg	white covered chair near pink item
+COCO_train2014_000000130869.jpg	person in yellow pants
+COCO_train2014_000000130872.jpg	our corner small bit of pink after paw or whit epillow
+COCO_train2014_000000131913.jpg	woman in green and yellow
+COCO_train2014_000000132574.jpg	girl in pink and black coat
+COCO_train2014_000000132617.jpg	wooden part of chair cat is on
+COCO_train2014_000000132991.jpg	man inbetween two woman one with white hair
+COCO_train2014_000000132997.jpg	blues jeans lady in gray hidden by umbrella
+COCO_train2014_000000133492.jpg	guy with his hands out
+COCO_train2014_000000133940.jpg	person blowing out candle
+COCO_train2014_000000134420.jpg	pizza with french fry on it
+COCO_train2014_000000135348.jpg	pondering a parking meter with an ugly shirt
+COCO_train2014_000000135482.jpg	darker couch
+COCO_train2014_000000135822.jpg	very bottomish rightish corner
+COCO_train2014_000000136230.jpg	squarest monitor with reddish picture on it
+COCO_train2014_000000136992.jpg	guy white shorts hear guy in full black both feet off ground
+COCO_train2014_000000137516.jpg	person in blue
+COCO_train2014_000000137724.jpg	black chair that is empty in forground
+COCO_train2014_000000137730.jpg	zebra with face more in profile
+COCO_train2014_000000138131.jpg	person with yellow shirt
+COCO_train2014_000000139068.jpg	guy in full black dress
+COCO_train2014_000000139324.jpg	not smiling with mouth open
+COCO_train2014_000000139359.jpg	oldest person
+COCO_train2014_000000139728.jpg	bun with meat cheese tomato lettuce
+COCO_train2014_000000139763.jpg	chair behind chair partially seen
+COCO_train2014_000000140667.jpg	girl in pink throwing frisbee
+COCO_train2014_000000140733.jpg	plane in the back of the pack
+COCO_train2014_000000140738.jpg	white seate behind guy in black shirt
+COCO_train2014_000000140850.jpg	this case isnt too big or too small
+COCO_train2014_000000142299.jpg	horse looking away from us
+COCO_train2014_000000142322.jpg	smallest bear
+COCO_train2014_000000142637.jpg	man in maroon shirt wearing sunglasses
+COCO_train2014_000000143258.jpg	orange juice furthest away from the person sitting
+COCO_train2014_000000144180.jpg	bed closest to us
+COCO_train2014_000000144275.jpg	lowest layer on a piece of chocolate cake
+COCO_train2014_000000144495.jpg	piece without the stalk
+COCO_train2014_000000144832.jpg	guy standing up straight
+COCO_train2014_000000145606.jpg	guy sitting down with dark shirt
+COCO_train2014_000000146584.jpg	chef with one arm up over the other
+COCO_train2014_000000147753.jpg	man with white shirt under darker one
+COCO_train2014_000000147838.jpg	zebra facing sideways
+COCO_train2014_000000148129.jpg	donut standing straight up
+COCO_train2014_000000149440.jpg	large dark blue umbrella featured
+COCO_train2014_000000149566.jpg	surface bowl is sitting on
+COCO_train2014_000000149616.jpg	butt behind striped shirt
+COCO_train2014_000000149921.jpg	pretty girl in nearest chair
+COCO_train2014_000000149961.jpg	blurry person with blue umbrella
+COCO_train2014_000000149996.jpg	third girl with blacck shorts and black flip flops
+COCO_train2014_000000150197.jpg	bike closest to man that he is looking at
+COCO_train2014_000000150614.jpg	boy not behind netting
+COCO_train2014_000000150704.jpg	the smaller elephant
+COCO_train2014_000000151265.jpg	black bike partial view
+COCO_train2014_000000151908.jpg	elephant facing different direction
+COCO_train2014_000000152273.jpg	the black frame phone closest to the cup
+COCO_train2014_000000152479.jpg	man with arm around the only one with closed jacket
+COCO_train2014_000000152556.jpg	not the girl looking at us but the one looking at 300 in blue green shirt
+COCO_train2014_000000152871.jpg	reddish pink next to kid
+COCO_train2014_000000153475.jpg	woman in green shirt
+COCO_train2014_000000153711.jpg	slice at 8 pm
+COCO_train2014_000000153827.jpg	girl in white
+COCO_train2014_000000154212.jpg	white and brown thingsblack trim
+COCO_train2014_000000154257.jpg	horse with the rider looking own
+COCO_train2014_000000154911.jpg	man in blue shirt standing by white wall
+COCO_train2014_000000156125.jpg	blurred person in background
+COCO_train2014_000000156258.jpg	portion of table by onion slice on pizza
+COCO_train2014_000000156939.jpg	empty chair with her boot on it
+COCO_train2014_000000157194.jpg	the kid in the white shirt
+COCO_train2014_000000157239.jpg	the girl that is starting
+COCO_train2014_000000157344.jpg	lady in blue near wine glass arms folded
+COCO_train2014_000000157424.jpg	man without strings on hat
+COCO_train2014_000000157714.jpg	toy touching babys face
+COCO_train2014_000000158051.jpg	woman
+COCO_train2014_000000158201.jpg	table on rightest side of pic
+COCO_train2014_000000158701.jpg	lighter coat color
+COCO_train2014_000000160906.jpg	boat closest to camera
+COCO_train2014_000000161719.jpg	table portions with nothin om them
+COCO_train2014_000000161757.jpg	hardest animal to see on side of pic
+COCO_train2014_000000161865.jpg	guy with shorter hair closest
+COCO_train2014_000000162102.jpg	black shorts white shirt
+COCO_train2014_000000162200.jpg	spiral glazed brown doughnut under cinnamon one under paper
+COCO_train2014_000000162283.jpg	red shirt guy
+COCO_train2014_000000162551.jpg	bread cut off by the side of image
+COCO_train2014_000000163089.jpg	the sleeping boy
+COCO_train2014_000000163266.jpg	girl with blue shirt
+COCO_train2014_000000163394.jpg	part of suitcase where clothes go
+COCO_train2014_000000163506.jpg	skier in all gray and arms crossed
+COCO_train2014_000000163828.jpg	the player with 6 on his jersey
+COCO_train2014_000000164381.jpg	man in blue shirt and glasses looking up
+COCO_train2014_000000167169.jpg	person watching baseball
+COCO_train2014_000000167264.jpg	yellow tail lights closest to us
+COCO_train2014_000000168022.jpg	man with beard
+COCO_train2014_000000168482.jpg	3 cylinders facing this way
+COCO_train2014_000000169653.jpg	guy with bat in white uniform ps please dont quit on me
+COCO_train2014_000000170483.jpg	brown couch
+COCO_train2014_000000170683.jpg	black car near nearest the sign
+COCO_train2014_000000170689.jpg	what the children are sitting in
+COCO_train2014_000000171194.jpg	boy with hoodie sitting
+COCO_train2014_000000171262.jpg	dog with back of head facing us
+COCO_train2014_000000171736.jpg	red phone not the reflection
+COCO_train2014_000000173550.jpg	child only showing head
+COCO_train2014_000000175112.jpg	player swinging bat
+COCO_train2014_000000175162.jpg	broccoli by big patch of plain rice
+COCO_train2014_000000175745.jpg	black shirt blue shorts carrying volleyball
+COCO_train2014_000000176032.jpg	either one of the giraffes
+COCO_train2014_000000176945.jpg	smaller side of sandwich
+COCO_train2014_000000177193.jpg	smaller wine glass beside pizza
+COCO_train2014_000000177214.jpg	maybe looks like going for a swim
+COCO_train2014_000000177289.jpg	loveseat with red coushions
+COCO_train2014_000000177516.jpg	upper part of broccoli floret
+COCO_train2014_000000177658.jpg	littlest girl with pink fish on her shirt
+COCO_train2014_000000177917.jpg	brown furry paw things by the pink guy
+COCO_train2014_000000178192.jpg	laptop closest to rounds remaining counter
+COCO_train2014_000000178620.jpg	white shirt
+COCO_train2014_000000179159.jpg	taller elephant butt to butt
+COCO_train2014_000000179164.jpg	black leather jacket closest to driver side of bus
+COCO_train2014_000000180179.jpg	center zebra can see most of
+COCO_train2014_000000180559.jpg	white shirt
+COCO_train2014_000000181054.jpg	man with glasses
+COCO_train2014_000000181176.jpg	blue or black back end of car
+COCO_train2014_000000181711.jpg	man behind closest man
+COCO_train2014_000000182347.jpg	boy with red hat in hand
+COCO_train2014_000000182863.jpg	guy with beard and red sweater
+COCO_train2014_000000183602.jpg	woman with long hair arching her back
+COCO_train2014_000000183923.jpg	person with black shoes and white laces
+COCO_train2014_000000184578.jpg	can see side but face is cut off
+COCO_train2014_000000184761.jpg	big cow head down not the one with white on head
+COCO_train2014_000000184835.jpg	man in black shirt sitting and talking
+COCO_train2014_000000185229.jpg	man sitting next to man in yellow helmet feet cut off by bucket
+COCO_train2014_000000185291.jpg	guy in gray blazer behind man holding cow
+COCO_train2014_000000186131.jpg	bowl with beige vegetables
+COCO_train2014_000000187119.jpg	black car in front of the silver ride
+COCO_train2014_000000187511.jpg	fry that is pointing straight at you from plate long and set apart from group
+COCO_train2014_000000188727.jpg	closest giraffe
+COCO_train2014_000000190513.jpg	bike facing away from camara
+COCO_train2014_000000190617.jpg	hawk on the lower branch
+COCO_train2014_000000191068.jpg	pizza with what looks like chicken on it
+COCO_train2014_000000192319.jpg	blurry white thing near fruit
+COCO_train2014_000000193168.jpg	smaller of two pieces of pizza above two knobs
+COCO_train2014_000000193171.jpg	woman in photo who appears to be following the leader
+COCO_train2014_000000193829.jpg	giraffe laying down
+COCO_train2014_000000194056.jpg	person in backgraound
+COCO_train2014_000000194550.jpg	gray suit maniquin with brown hair under mouth
+COCO_train2014_000000194758.jpg	chair completly on ground
+COCO_train2014_000000195525.jpg	hair dresser not the blow dryer
+COCO_train2014_000000196899.jpg	closest white shirt
+COCO_train2014_000000197068.jpg	not the cell phone but with keyboard
+COCO_train2014_000000197222.jpg	zebra closest to us all their heads are pointing towards ihm
+COCO_train2014_000000197251.jpg	smaller pieces of bread on edge
+COCO_train2014_000000197289.jpg	hamburger with whole piece of bread near broccolli
+COCO_train2014_000000197401.jpg	furthest stripped animal
+COCO_train2014_000000197503.jpg	younger guy jacket orange
+COCO_train2014_000000197507.jpg	zebra most visible with head down
+COCO_train2014_000000197651.jpg	the woman wearing yellow
+COCO_train2014_000000197662.jpg	man smiling at choclate chip cookies
+COCO_train2014_000000198042.jpg	number 36
+COCO_train2014_000000198651.jpg	orange shirted back
+COCO_train2014_000000198704.jpg	car with yellow plates
+COCO_train2014_000000199029.jpg	part of dashboard and steering wheel
+COCO_train2014_000000199487.jpg	standing by blue chest gray jacket dark pants
+COCO_train2014_000000199640.jpg	black moped driven by man with tan striped shirt
+COCO_train2014_000000199721.jpg	dark t shirt
+COCO_train2014_000000199835.jpg	man under pic with animal
+COCO_train2014_000000199841.jpg	man in striped shirt
+COCO_train2014_000000199888.jpg	elephant with side to us
+COCO_train2014_000000200377.jpg	uneaten hot dog
+COCO_train2014_000000200794.jpg	the scissors that can be fully seen
+COCO_train2014_000000202657.jpg	blue umbrella closest to us and sorry about last one that was gray doh
+COCO_train2014_000000202755.jpg	whole apple the stem
+COCO_train2014_000000203034.jpg	small appliance next to fridge
+COCO_train2014_000000203069.jpg	closest to us is lightish with black spots
+COCO_train2014_000000204529.jpg	glass in direct line of pinot blanc blue label and lol
+COCO_train2014_000000204680.jpg	peas in orange tray next to organic
+COCO_train2014_000000205069.jpg	british flag dress slut
+COCO_train2014_000000205250.jpg	the man wearing a leather jacket closest to us
+COCO_train2014_000000206628.jpg	woman in lighter shirt
+COCO_train2014_000000207083.jpg	standing all in black at end of green tube in front of sitting guy
+COCO_train2014_000000207467.jpg	guy brushing teeth with unbuttoned white shirt
+COCO_train2014_000000208075.jpg	standing with a hat and dark clothes
+COCO_train2014_000000208612.jpg	chair two away from woman partially cut off
+COCO_train2014_000000208963.jpg	person with white sleeves hidden head from tree
+COCO_train2014_000000209993.jpg	ram with most white
+COCO_train2014_000000210252.jpg	man with open shirt
+COCO_train2014_000000210271.jpg	the girl you can barely see in the yellow pink shirt
+COCO_train2014_000000210848.jpg	red bleachers
+COCO_train2014_000000211138.jpg	table cloth on table with food
+COCO_train2014_000000211570.jpg	underneath sprinkles doughnut
+COCO_train2014_000000211576.jpg	back end of elephant at 3 o clock
+COCO_train2014_000000211683.jpg	man holding the backpack
+COCO_train2014_000000212628.jpg	coffee cup closer to rose
+COCO_train2014_000000212633.jpg	bigger girl with greyish brown shirt
+COCO_train2014_000000212859.jpg	woman in blue
+COCO_train2014_000000213652.jpg	piece not shown half sandiwich
+COCO_train2014_000000214001.jpg	the one with his back turned
+COCO_train2014_000000214563.jpg	comuter that you can see part of the keyboard but no monitor
+COCO_train2014_000000215407.jpg	the skier dressed in all black with sunglasses
+COCO_train2014_000000215421.jpg	smallest blue lighter near us
+COCO_train2014_000000215569.jpg	closest back of e head
+COCO_train2014_000000216119.jpg	blue and white umbrella almost at the bullseye
+COCO_train2014_000000216391.jpg	man with blue shirt
+COCO_train2014_000000217268.jpg	woman in dark clothing wearing glasses
+COCO_train2014_000000217799.jpg	elephant closest to fence with holes
+COCO_train2014_000000217959.jpg	dark brown animal
+COCO_train2014_000000218145.jpg	arm stretched out pointing
+COCO_train2014_000000218447.jpg	broccoli between the carrot and tomato
+COCO_train2014_000000218863.jpg	no price tag but near the 59 dollar bear
+COCO_train2014_000000218984.jpg	vase with big red roses close to us
+COCO_train2014_000000219169.jpg	elephant off screen next one and then the next one
+COCO_train2014_000000219735.jpg	a guy about to take 9 inches in black
+COCO_train2014_000000220053.jpg	darker of the two couches not red
+COCO_train2014_000000220148.jpg	white yellow blue train
+COCO_train2014_000000220842.jpg	the led display under the stove burners
+COCO_train2014_000000221053.jpg	folded table on wall
+COCO_train2014_000000221794.jpg	player that looks like a bandit not in red
+COCO_train2014_000000222086.jpg	girl in black shirt two arms in air with side of cheek showing
+COCO_train2014_000000222209.jpg	chicken piece with a point
+COCO_train2014_000000222506.jpg	not the most prominent umbrella but the one next to it
+COCO_train2014_000000222893.jpg	cow facing us fully
+COCO_train2014_000000223660.jpg	glass in back behind one with straw
+COCO_train2014_000000223909.jpg	slightly taller giraffe
+COCO_train2014_000000224056.jpg	the half black half silver laptop with screen off
+COCO_train2014_000000224168.jpg	chair next to table behind cats head
+COCO_train2014_000000224821.jpg	main piece which happens to also be closest to us
+COCO_train2014_000000224838.jpg	woman in black
+COCO_train2014_000000224891.jpg	giraffe leading the others
+COCO_train2014_000000225579.jpg	man in black jacket next to man with plaid sleeve
+COCO_train2014_000000226046.jpg	bottle near knivfe handle
+COCO_train2014_000000226348.jpg	maroon shirt not visible person
+COCO_train2014_000000226552.jpg	it looks more like an orange and it is between two shinier apples
+COCO_train2014_000000226594.jpg	girl sitting with pink helmet and red vest
+COCO_train2014_000000226840.jpg	can see almost all of this zebra
+COCO_train2014_000000226961.jpg	giraffe by wood fence with butt facing camera
+COCO_train2014_000000227178.jpg	the black chair that is turned away from us closer to sofa
+COCO_train2014_000000227825.jpg	person barely visible
+COCO_train2014_000000228000.jpg	the cushions in between the two people
+COCO_train2014_000000228215.jpg	couch with blue cloth draped over it
+COCO_train2014_000000230236.jpg	fountain drink
+COCO_train2014_000000231320.jpg	clock at the edge cut off and oddly shaped
+COCO_train2014_000000231987.jpg	the guy in the black with white collar under green dot
+COCO_train2014_000000231992.jpg	this keeps the stuffed animals warm
+COCO_train2014_000000232371.jpg	giraffe behind other
+COCO_train2014_000000232957.jpg	woman in black not with child
+COCO_train2014_000000233007.jpg	woman in black shirt
+COCO_train2014_000000233064.jpg	cake with blue and white creatures on it
+COCO_train2014_000000233153.jpg	woman
+COCO_train2014_000000233871.jpg	guy wearing a gray shirt at the next table
+COCO_train2014_000000233878.jpg	white container behind mac and cheese
+COCO_train2014_000000234457.jpg	orange with squinty eyes
+COCO_train2014_000000235316.jpg	visible white and black patch on arm
+COCO_train2014_000000235802.jpg	dark red motorcycle
+COCO_train2014_000000236036.jpg	tallest player with tourquoise bag
+COCO_train2014_000000236718.jpg	the plaid chair on the pile
+COCO_train2014_000000237193.jpg	lone silhouette of person
+COCO_train2014_000000237510.jpg	heh my bad on that this one the butt
+COCO_train2014_000000238007.jpg	the dip in the bowl
+COCO_train2014_000000238070.jpg	partially hidden bus
+COCO_train2014_000000238231.jpg	bicycle with woman holding seat
+COCO_train2014_000000238589.jpg	man in blackshirt facing field next to lady in gray sweater
+COCO_train2014_000000238713.jpg	not the most slow giraffe but the one after it
+COCO_train2014_000000240331.jpg	person in blackl
+COCO_train2014_000000240339.jpg	striped shirt
+COCO_train2014_000000241208.jpg	umpire
+COCO_train2014_000000241369.jpg	pizza with pepperoni and other more visible toppings
+COCO_train2014_000000241887.jpg	zebra showing eye
+COCO_train2014_000000242213.jpg	player reading paper
+COCO_train2014_000000242506.jpg	thing next to train
+COCO_train2014_000000242539.jpg	player on bench by bats
+COCO_train2014_000000242807.jpg	marines camo in background
+COCO_train2014_000000243153.jpg	tennis player number 2 picture back to us
+COCO_train2014_000000243336.jpg	guy holding blue surfboard and sorry i screwed up on that clock click
+COCO_train2014_000000243717.jpg	partially visible red vehicle
+COCO_train2014_000000243823.jpg	closet with digital clouds and 22 as time
+COCO_train2014_000000243839.jpg	closest seated person wearing pants
+COCO_train2014_000000244171.jpg	prominent person under orange umbrella with yellow spots
+COCO_train2014_000000244983.jpg	train closest to speed limit sign
+COCO_train2014_000000245953.jpg	dog sitting not lying down
+COCO_train2014_000000246084.jpg	freaky looking man lol
+COCO_train2014_000000246539.jpg	foot that is darker
+COCO_train2014_000000247110.jpg	yellow train
+COCO_train2014_000000247126.jpg	blue shirt running
+COCO_train2014_000000247818.jpg	man in the purplish dress shirt
+COCO_train2014_000000248052.jpg	table where woman in blue dress is sitting
+COCO_train2014_000000248221.jpg	city bus number 18
+COCO_train2014_000000248579.jpg	colonel sanders white jacket
+COCO_train2014_000000248666.jpg	foot up elephant leg up
+COCO_train2014_000000248730.jpg	cake that is missing piece
+COCO_train2014_000000248733.jpg	not wearing their glasses
+COCO_train2014_000000249429.jpg	dark chair leaning back further than the others
+COCO_train2014_000000249805.jpg	man with glasses on hat
+COCO_train2014_000000250588.jpg	man with tan vest with blue stripes
+COCO_train2014_000000250978.jpg	big bear with lighter colored shirt
+COCO_train2014_000000251368.jpg	wheel next to person with black shoes and orange thing on the toe
+COCO_train2014_000000252136.jpg	the tv screen by the dude in the hat
+COCO_train2014_000000252277.jpg	sign on side with white background and picture of globe
+COCO_train2014_000000252567.jpg	a baseball player
+COCO_train2014_000000252768.jpg	person in green shirt
+COCO_train2014_000000252937.jpg	person without a head
+COCO_train2014_000000253049.jpg	donut between glazed and one with shit on it upper
+COCO_train2014_000000253251.jpg	plant with blue pot
+COCO_train2014_000000253522.jpg	man standing closest to fence hand in pocket
+COCO_train2014_000000254176.jpg	bike with dressed up guys in teddy suits
+COCO_train2014_000000254821.jpg	black computer
+COCO_train2014_000000255375.jpg	girl with braid in her hair
+COCO_train2014_000000256546.jpg	the roundest whole tomato slice and it ajacent olive slice
+COCO_train2014_000000256659.jpg	boy with brunette hair directly in fire hydrant spray
+COCO_train2014_000000256951.jpg	partially visible motorcycle
+COCO_train2014_000000257392.jpg	the person by the door with a gray sweatshirt and blue pants
+COCO_train2014_000000257804.jpg	light brown hair under black phone
+COCO_train2014_000000258071.jpg	woman in blue
+COCO_train2014_000000258237.jpg	girl legs that is holding the other girl
+COCO_train2014_000000258705.jpg	man getting thing out of oven
+COCO_train2014_000000259104.jpg	remote with tiny orange button only one color on remote
+COCO_train2014_000000259443.jpg	white shirt
+COCO_train2014_000000260010.jpg	okay so the old woman with a blue apron who is trying to hold spiders in her hand
+COCO_train2014_000000260129.jpg	guy with green skateboard click the guy
+COCO_train2014_000000260932.jpg	the guy in red by the way thanks for playing
+COCO_train2014_000000261381.jpg	man next to man reaching into breast pocket
+COCO_train2014_000000261503.jpg	two red apples together
+COCO_train2014_000000261673.jpg	woman all black outfit cant see her face
+COCO_train2014_000000261893.jpg	man in sweaty shirt
+COCO_train2014_000000262086.jpg	the girl with black shirt
+COCO_train2014_000000263039.jpg	smaller bear
+COCO_train2014_000000263516.jpg	woman with arms around kid
+COCO_train2014_000000264296.jpg	girl in white shirt facing away from us
+COCO_train2014_000000264502.jpg	jeans in blue
+COCO_train2014_000000264741.jpg	sofa that only one person is sitting on
+COCO_train2014_000000264781.jpg	guy in bright blue
+COCO_train2014_000000265235.jpg	whats up with you baseball
+COCO_train2014_000000265329.jpg	bread without anything on it
+COCO_train2014_000000266442.jpg	giraffe closers to us
+COCO_train2014_000000266600.jpg	dark blue shirt
+COCO_train2014_000000266859.jpg	gap between newspaper and sandwich
+COCO_train2014_000000267116.jpg	orange shirt facing away
+COCO_train2014_000000267779.jpg	couch with the black thing on it
+COCO_train2014_000000267815.jpg	the half face kid with glasses closest
+COCO_train2014_000000267871.jpg	chair three seats away in row of man in back
+COCO_train2014_000000268881.jpg	charlie chaplin fail
+COCO_train2014_000000269160.jpg	light blue car
+COCO_train2014_000000269532.jpg	guy with black cowboy hat
+COCO_train2014_000000269890.jpg	person holding the handlebars
+COCO_train2014_000000270248.jpg	guy way in distance blurry with orange shirt white pants
+COCO_train2014_000000270369.jpg	woman in blue near you
+COCO_train2014_000000270391.jpg	man closest to us
+COCO_train2014_000000270460.jpg	smaller white umbrella with pink trim
+COCO_train2014_000000271447.jpg	white mug with brown liquid the one with spoon on saucer
+COCO_train2014_000000272194.jpg	black t shirt kid
+COCO_train2014_000000272299.jpg	woman
+COCO_train2014_000000272729.jpg	car zebra is mouth with mouth in hand
+COCO_train2014_000000273184.jpg	chair that the person at the computer would be sitting at
+COCO_train2014_000000273197.jpg	horse with short hair woman
+COCO_train2014_000000274667.jpg	single red tail light in background
+COCO_train2014_000000274770.jpg	orance held by hand with siver bracelet
+COCO_train2014_000000274786.jpg	dark brown horse with less visible tail
+COCO_train2014_000000275707.jpg	the boy in a striped shirt and blue shorts with legs crossed
+COCO_train2014_000000276089.jpg	lady behind cake
+COCO_train2014_000000276283.jpg	toddler being held in parents arms
+COCO_train2014_000000276354.jpg	bride
+COCO_train2014_000000276417.jpg	coach leaning on fence bh batter
+COCO_train2014_000000276460.jpg	black shirt bent over
+COCO_train2014_000000276666.jpg	smaller giraffe away from tree
+COCO_train2014_000000276686.jpg	giants player
+COCO_train2014_000000277491.jpg	player in white shirt and black shorts
+COCO_train2014_000000277507.jpg	white part of bed under purse
+COCO_train2014_000000278055.jpg	strip shirt boy eyes closed
+COCO_train2014_000000278371.jpg	blue jeans white shirt black belt
+COCO_train2014_000000278549.jpg	the boy with finger in its mouth
+COCO_train2014_000000278931.jpg	blue stripped hidden hand
+COCO_train2014_000000279169.jpg	peaches i guess they are near bananas
+COCO_train2014_000000279415.jpg	woman the guy has his arm around
+COCO_train2014_000000279762.jpg	the girl wearing glasses
+COCO_train2014_000000279882.jpg	vehicle closest to man
+COCO_train2014_000000280018.jpg	tuna or some shredded meat bowl
+COCO_train2014_000000281051.jpg	blurry guy arm kinda out of pic
+COCO_train2014_000000281790.jpg	women watching the whit computer
+COCO_train2014_000000282142.jpg	girl closest to horse
+COCO_train2014_000000283479.jpg	scientific american mag
+COCO_train2014_000000283624.jpg	black dog with green collar
+COCO_train2014_000000283937.jpg	skater no hand on skate
+COCO_train2014_000000284902.jpg	woman with blue peacock pattern dress
+COCO_train2014_000000284964.jpg	chick with no hat
+COCO_train2014_000000285307.jpg	zebra with turned head looking over back of other
+COCO_train2014_000000286116.jpg	woman black shirt white bra straps
+COCO_train2014_000000287249.jpg	standing with wii controller
+COCO_train2014_000000287575.jpg	green thing with white oval on it
+COCO_train2014_000000287608.jpg	smaller teddy bear
+COCO_train2014_000000288018.jpg	man wearing brown tee that is paying attention
+COCO_train2014_000000288559.jpg	catcher
+COCO_train2014_000000288691.jpg	cow that is competely un visible next to white tail one
+COCO_train2014_000000289212.jpg	car behind white van at 9 o clock
+COCO_train2014_000000289282.jpg	the big blackish bowl with sushi next to pizza
+COCO_train2014_000000289482.jpg	guy with blue shirt and red shorts with dark hair standing by wall
+COCO_train2014_000000289782.jpg	blue truck
+COCO_train2014_000000289866.jpg	striped shirt
+COCO_train2014_000000290072.jpg	brown surf board girl is holding
+COCO_train2014_000000291493.jpg	sandwich half behind the other half
+COCO_train2014_000000291658.jpg	black car out of frame
+COCO_train2014_000000292116.jpg	player with racket to side
+COCO_train2014_000000292315.jpg	catcher
+COCO_train2014_000000292498.jpg	bus behind the main bus seen
+COCO_train2014_000000294416.jpg	man in black jacket
+COCO_train2014_000000294813.jpg	headlight almost out of frame
+COCO_train2014_000000295294.jpg	apple beside orange not sure
+COCO_train2014_000000295864.jpg	keyboard of large laptop
+COCO_train2014_000000296360.jpg	man with white shirt
+COCO_train2014_000000296614.jpg	running player in background
+COCO_train2014_000000296894.jpg	lady laying on floor talking to a friend
+COCO_train2014_000000297171.jpg	lower square thing to the side of the stack of 3 tvs
+COCO_train2014_000000297266.jpg	santa looking man on orange blue bike
+COCO_train2014_000000297363.jpg	yellow shirt man
+COCO_train2014_000000297665.jpg	largest tan food with no powdered sugar on it
+COCO_train2014_000000297984.jpg	pizza
+COCO_train2014_000000297997.jpg	window frame edge
+COCO_train2014_000000298306.jpg	boy with tennis racket raised
+COCO_train2014_000000298481.jpg	tan chair sitting at closest red table
+COCO_train2014_000000298793.jpg	boat that is between the boat and the dock
+COCO_train2014_000000298983.jpg	horse with the man in the red
+COCO_train2014_000000299594.jpg	the person with the black and white shoes
+COCO_train2014_000000300624.jpg	blue shirt
+COCO_train2014_000000301373.jpg	firetruck behind red vehicle
+COCO_train2014_000000302103.jpg	large man with back to us
+COCO_train2014_000000302397.jpg	orange with white lines
+COCO_train2014_000000302634.jpg	small bananas by the pole not on the pole before those yellow
+COCO_train2014_000000302675.jpg	the orange flag next to the green and black dots
+COCO_train2014_000000302885.jpg	orange slice you see all of and is closest to us
+COCO_train2014_000000303370.jpg	emblem can be seen on the side of this mans uniform
+COCO_train2014_000000304150.jpg	woman in secong row blue vest shirt
+COCO_train2014_000000304408.jpg	head of the man
+COCO_train2014_000000304603.jpg	the oldest person
+COCO_train2014_000000305141.jpg	man with glasses
+COCO_train2014_000000305224.jpg	person you can not see sitting on yellow cushion
+COCO_train2014_000000305231.jpg	small bowl of food near sandwich and cup of something
+COCO_train2014_000000305267.jpg	man with glasses
+COCO_train2014_000000305492.jpg	horse closest to the stick leaning against the barn
+COCO_train2014_000000306128.jpg	guy to the far left in red shorts and a white shirt with black long sleeves under
+COCO_train2014_000000306267.jpg	the one with black leather jacket
+COCO_train2014_000000306275.jpg	purple shirt person
+COCO_train2014_000000307242.jpg	wine glass being filled with wine
+COCO_train2014_000000307322.jpg	laptop can see reflection of window in screen
+COCO_train2014_000000307745.jpg	the train moving forward
+COCO_train2014_000000307968.jpg	tallest person with light blue shirt
+COCO_train2014_000000308089.jpg	car near the red painted part i agree
+COCO_train2014_000000308180.jpg	woman in black
+COCO_train2014_000000308265.jpg	square leather ottoman in corner
+COCO_train2014_000000308463.jpg	flowers next to the flowers not in a pot
+COCO_train2014_000000308536.jpg	the keyboard with the mouse sitting on it closests to the side of the pic
+COCO_train2014_000000309135.jpg	both animals
+COCO_train2014_000000309409.jpg	represenatitvedean takko
+COCO_train2014_000000309519.jpg	wide part of tie furthest from triangle
+COCO_train2014_000000309706.jpg	girl is sitting on this
+COCO_train2014_000000310013.jpg	red and white checkered shirt skater dude
+COCO_train2014_000000310518.jpg	girl sitting with the black coke drink with the red straw
+COCO_train2014_000000310536.jpg	umbrella in background
+COCO_train2014_000000310897.jpg	book just book though really small area the word
+COCO_train2014_000000311808.jpg	beige shirt with wii
+COCO_train2014_000000312050.jpg	umpire in black shirt
+COCO_train2014_000000312205.jpg	zebra closet looking with head bent
+COCO_train2014_000000312390.jpg	grown up
+COCO_train2014_000000312608.jpg	plant next to or kinda behind the pillar
+COCO_train2014_000000312886.jpg	taller zebra
+COCO_train2014_000000312943.jpg	giraffe standing obfuscated by wire fence
+COCO_train2014_000000313164.jpg	brunette man with white tee shirt center
+COCO_train2014_000000313434.jpg	man in black suit sitting at closest table
+COCO_train2014_000000314051.jpg	the standing cow
+COCO_train2014_000000314065.jpg	white sheep on man dressed in half coat
+COCO_train2014_000000314237.jpg	green lettuce yellow egg
+COCO_train2014_000000314462.jpg	not the girl in the long purple coat
+COCO_train2014_000000314556.jpg	rightier trash bin thing
+COCO_train2014_000000314920.jpg	dog closer to camera
+COCO_train2014_000000315476.jpg	woman in white shirt and jean skirt
+COCO_train2014_000000316238.jpg	person beside one in red wearing blue camo
+COCO_train2014_000000316557.jpg	the guy in skis closest to camera black pants white coat
+COCO_train2014_000000316801.jpg	the car nearest the mini cooper
+COCO_train2014_000000316971.jpg	player with p racket
+COCO_train2014_000000317112.jpg	bowtie guy
+COCO_train2014_000000317573.jpg	black liquid with spoon beside it
+COCO_train2014_000000317659.jpg	yellow couch with white pillow on it
+COCO_train2014_000000317805.jpg	chair to the side of woman where hand is in purse
+COCO_train2014_000000318203.jpg	man leaning on chair
+COCO_train2014_000000318333.jpg	kid in gray protective wear
+COCO_train2014_000000318528.jpg	green leaves by yellow flower
+COCO_train2014_000000319543.jpg	striped couch with light brown pilliw
+COCO_train2014_000000319644.jpg	kid between man with stache and man without one
+COCO_train2014_000000320059.jpg	man holding black pot
+COCO_train2014_000000320137.jpg	the person who doesnt have glasses
+COCO_train2014_000000320371.jpg	closest painted mask face
+COCO_train2014_000000320454.jpg	chair above computer screen
+COCO_train2014_000000320667.jpg	the wall before the kitchen
+COCO_train2014_000000321318.jpg	person in black jacket with hood up
+COCO_train2014_000000322090.jpg	player behind batter with black hat on
+COCO_train2014_000000322445.jpg	the woman with the shades on
+COCO_train2014_000000322472.jpg	guy in white with rack
+COCO_train2014_000000322517.jpg	person with arm up to face cant really be seen
+COCO_train2014_000000322698.jpg	man in white shirt
+COCO_train2014_000000322726.jpg	bird farthest from camera
+COCO_train2014_000000323108.jpg	person touching giraffes head
+COCO_train2014_000000323149.jpg	bike behind the colorful one
+COCO_train2014_000000323213.jpg	standing vested lady orange only
+COCO_train2014_000000324677.jpg	guy in jacket
+COCO_train2014_000000324705.jpg	man closest to us sitting down
+COCO_train2014_000000324732.jpg	refrigerator next to open one
+COCO_train2014_000000324910.jpg	man not holding beer
+COCO_train2014_000000324923.jpg	back of mans head closest to camera
+COCO_train2014_000000325302.jpg	biggest motorcycle
+COCO_train2014_000000325494.jpg	man with blue shirt and glove
+COCO_train2014_000000325806.jpg	white chair at desk
+COCO_train2014_000000325891.jpg	man with reflective glasses and wearing ball cap
+COCO_train2014_000000325950.jpg	cat with less visible tail next to curtain
+COCO_train2014_000000326092.jpg	hands touching cake
+COCO_train2014_000000326209.jpg	giraffe not looking at us straight on
+COCO_train2014_000000326350.jpg	man in back with white hair showing under cap
+COCO_train2014_000000326475.jpg	giraffe in the rear looking over the other other giraffes backs
+COCO_train2014_000000326823.jpg	the arm where hand is holding knife
+COCO_train2014_000000326841.jpg	yellow train
+COCO_train2014_000000326966.jpg	the small childs leg that barely makes it into the photo
+COCO_train2014_000000327042.jpg	whitish shirt reading teabags
+COCO_train2014_000000327338.jpg	person with hat eating something
+COCO_train2014_000000327462.jpg	blue dark blue jacket
+COCO_train2014_000000327561.jpg	woman with no hair showing
+COCO_train2014_000000327843.jpg	guy in suit smiling with dark tie
+COCO_train2014_000000327970.jpg	the goalie behind the others
+COCO_train2014_000000327998.jpg	woman
+COCO_train2014_000000328318.jpg	brown bear near pink bear
+COCO_train2014_000000328676.jpg	woman in yellow holding light blue and hand out
+COCO_train2014_000000328918.jpg	i am the one in the hug not talking on the phone
+COCO_train2014_000000328969.jpg	donut closest with white frosting drizzle and looks like green and yellow dots
+COCO_train2014_000000329058.jpg	brunette in green
+COCO_train2014_000000329141.jpg	sliced of red bell pepper
+COCO_train2014_000000330223.jpg	woman with donut and coffee drink
+COCO_train2014_000000330284.jpg	elephant with hidden face
+COCO_train2014_000000331463.jpg	girl in corner behind younger child
+COCO_train2014_000000331900.jpg	a big black beast cant see his head
+COCO_train2014_000000332135.jpg	cake cutter woman
+COCO_train2014_000000332905.jpg	brown horse only back end showing
+COCO_train2014_000000332976.jpg	orange cat
+COCO_train2014_000000334742.jpg	man on bench
+COCO_train2014_000000335066.jpg	umbrella mostly closed
+COCO_train2014_000000335697.jpg	elephant the baby is pointing towards
+COCO_train2014_000000335865.jpg	black chair in corner by us
+COCO_train2014_000000336185.jpg	rallest elephant
+COCO_train2014_000000336406.jpg	tofu dog not sign
+COCO_train2014_000000336503.jpg	man in black pants facing us white hat and lanyard
+COCO_train2014_000000337255.jpg	the yellow pillow the cat is on
+COCO_train2014_000000337445.jpg	woman in black coat
+COCO_train2014_000000337452.jpg	kid with skateboard looking away
+COCO_train2014_000000338385.jpg	white horse thats fully visible
+COCO_train2014_000000339453.jpg	the tow truck carrying plane
+COCO_train2014_000000339454.jpg	guy leaning wearing white and a tie
+COCO_train2014_000000339499.jpg	guy in red
+COCO_train2014_000000339913.jpg	dude holding something in his hand
+COCO_train2014_000000340345.jpg	giraffe near tall tree trunk
+COCO_train2014_000000340971.jpg	metal chair beside couch
+COCO_train2014_000000341457.jpg	person petting zebra
+COCO_train2014_000000341737.jpg	the giraffe with neck behind tree
+COCO_train2014_000000342459.jpg	catcher
+COCO_train2014_000000343201.jpg	cup of tea nearest to green table cloth
+COCO_train2014_000000344259.jpg	slices where juicy part is shown
+COCO_train2014_000000344319.jpg	horse in between white and black horse
+COCO_train2014_000000344338.jpg	sandwich on its side facing this way
+COCO_train2014_000000345019.jpg	guy with the yellow shirt
+COCO_train2014_000000345040.jpg	clock laying sideways
+COCO_train2014_000000345265.jpg	blurry sitting woman with black coat and long white dress
+COCO_train2014_000000345578.jpg	white dress
+COCO_train2014_000000346712.jpg	red uniform player
+COCO_train2014_000000347167.jpg	walking down the sidewalk in black capri pants
+COCO_train2014_000000348302.jpg	woman holding umbrella
+COCO_train2014_000000348382.jpg	the giraffe nearest the plants in the womans arms
+COCO_train2014_000000348609.jpg	man in jeans and green jacket
+COCO_train2014_000000349144.jpg	the bike that is behind the bike closest to us
+COCO_train2014_000000349170.jpg	the man wearing a polo shirt and tan pants
+COCO_train2014_000000349212.jpg	brown bear
+COCO_train2014_000000351397.jpg	leg of white bear all you can see of it coming out of box
+COCO_train2014_000000351654.jpg	bowl with white milky substance and 3 eggs you can see yolks
+COCO_train2014_000000351759.jpg	portion of bed closest to our score
+COCO_train2014_000000352312.jpg	highest polar bear
+COCO_train2014_000000352892.jpg	lady by cake with hand on chin
+COCO_train2014_000000353146.jpg	hotdog nearest baked beans
+COCO_train2014_000000354525.jpg	giraffe facing the tree
+COCO_train2014_000000354690.jpg	person with striped coat
+COCO_train2014_000000354791.jpg	blurred taller legs in the background
+COCO_train2014_000000355779.jpg	lady holding cat
+COCO_train2014_000000355863.jpg	laptop silver cut off
+COCO_train2014_000000355922.jpg	white blurry part just off vase
+COCO_train2014_000000356374.jpg	boy with striped shirt
+COCO_train2014_000000357508.jpg	walk dont walk sign
+COCO_train2014_000000358239.jpg	sand half with web address under
+COCO_train2014_000000358253.jpg	pinkish bed
+COCO_train2014_000000358706.jpg	man by by barricade hippy black shirt shorts
+COCO_train2014_000000358788.jpg	large round dessert with swirl and candy pieces
+COCO_train2014_000000358789.jpg	guy in stands with elbow on knee
+COCO_train2014_000000359323.jpg	the elephant in the room
+COCO_train2014_000000359339.jpg	child with light colored coat
+COCO_train2014_000000359868.jpg	yellow mustard bottle
+COCO_train2014_000000360302.jpg	gray and white elephant
+COCO_train2014_000000360719.jpg	actual cat not reflection
+COCO_train2014_000000363252.jpg	guy in blue shirt with sleeves
+COCO_train2014_000000363363.jpg	girfaffe with mouth closest to girls hand
+COCO_train2014_000000363671.jpg	whole apple unsliced
+COCO_train2014_000000363719.jpg	man with a black cap
+COCO_train2014_000000364683.jpg	elephant that you cant see the trunk
+COCO_train2014_000000364719.jpg	dark sheep near guy in white
+COCO_train2014_000000365138.jpg	motorcycle with numbers on front fender
+COCO_train2014_000000365427.jpg	white shirt woman behind land whale in green shirt
+COCO_train2014_000000365729.jpg	urinal closest to you bowl not showing
+COCO_train2014_000000366071.jpg	green print blouse on beanbag
+COCO_train2014_000000366789.jpg	bike next to the girl rider
+COCO_train2014_000000367549.jpg	the smaller boat in front of larger boat
+COCO_train2014_000000367934.jpg	couch man in black shirt is sitting on
+COCO_train2014_000000368060.jpg	bare arm in corner near us
+COCO_train2014_000000368363.jpg	the zebra nearest the camera
+COCO_train2014_000000369019.jpg	white blurry guy
+COCO_train2014_000000369557.jpg	the one not catching the frisbee
+COCO_train2014_000000369805.jpg	the leather on the nearest bikei think thats whats outlined
+COCO_train2014_000000370162.jpg	black shirted person reaching
+COCO_train2014_000000370505.jpg	bed farthest from people
+COCO_train2014_000000370790.jpg	yellow truck orange cones by it
+COCO_train2014_000000370986.jpg	elephant with two feet in the water
+COCO_train2014_000000371486.jpg	bowl full of pasta
+COCO_train2014_000000371871.jpg	small bear next to ladder
+COCO_train2014_000000372003.jpg	silver car
+COCO_train2014_000000372112.jpg	giraffe cant see its head
+COCO_train2014_000000372247.jpg	smaller zebra of the two
+COCO_train2014_000000372588.jpg	the bed who is not friends with the desk
+COCO_train2014_000000372871.jpg	section of table under plate
+COCO_train2014_000000373251.jpg	man with his back facing the camera
+COCO_train2014_000000373645.jpg	woman holding baby
+COCO_train2014_000000374818.jpg	purple pink and white most prominent
+COCO_train2014_000000375133.jpg	person with snow board
+COCO_train2014_000000375820.jpg	monitor with green banner and a circle on it
+COCO_train2014_000000376454.jpg	area above the bananas
+COCO_train2014_000000376573.jpg	person in blue jacket part
+COCO_train2014_000000376806.jpg	dish with what looks like salmon and a thin slice of cucumber on a lettuce leaf
+COCO_train2014_000000376848.jpg	ladys arms who has scisors
+COCO_train2014_000000376988.jpg	beard guy with no glass
+COCO_train2014_000000377174.jpg	train furthest from you
+COCO_train2014_000000377609.jpg	dog closest to pillows
+COCO_train2014_000000379034.jpg	person next to man standing at the table
+COCO_train2014_000000379315.jpg	couch that is cut off
+COCO_train2014_000000380034.jpg	man in white shirt black coat shaking hands
+COCO_train2014_000000380885.jpg	zebra chasing the other one
+COCO_train2014_000000381889.jpg	man lurking whte stripe shirt
+COCO_train2014_000000381961.jpg	big elephant near small one
+COCO_train2014_000000382069.jpg	person on skateboardc
+COCO_train2014_000000382514.jpg	whole pizza with slice missing haha its you
+COCO_train2014_000000383391.jpg	woman with glasses in black shirt looking away
+COCO_train2014_000000383512.jpg	full train car shown
+COCO_train2014_000000383605.jpg	man closest white uniform
+COCO_train2014_000000383660.jpg	bowl of rice
+COCO_train2014_000000383705.jpg	brown horse with tan patch and gray tail almost off camera
+COCO_train2014_000000383917.jpg	bus on side looks like big black letters
+COCO_train2014_000000384836.jpg	the medium sized giraffe eating
+COCO_train2014_000000384910.jpg	closest animal can see whole thing
+COCO_train2014_000000385401.jpg	black laptop not including hands
+COCO_train2014_000000385505.jpg	man in white shirt forefront good game
+COCO_train2014_000000385837.jpg	player number 15
+COCO_train2014_000000386401.jpg	the one with black pants
+COCO_train2014_000000386934.jpg	man without mask
+COCO_train2014_000000387105.jpg	a baby bird with mouth open waiting for food
+COCO_train2014_000000387124.jpg	man with hat and shorts
+COCO_train2014_000000387256.jpg	woman in black shirt
+COCO_train2014_000000387356.jpg	person holding red item in hand
+COCO_train2014_000000387513.jpg	more full piece of broccoli
+COCO_train2014_000000387615.jpg	bear whose arm is straight up near the heart and plaid heart
+COCO_train2014_000000387717.jpg	slice of pizza that is part of a pair and has most white
+COCO_train2014_000000387849.jpg	blue and white train
+COCO_train2014_000000388421.jpg	guy in blue shirt
+COCO_train2014_000000388961.jpg	blue long couch with pillow
+COCO_train2014_000000389292.jpg	man in white shirt with blue stripes
+COCO_train2014_000000389498.jpg	yellow shirt
+COCO_train2014_000000390749.jpg	child with purple coat
+COCO_train2014_000000390963.jpg	woman with gator on back of shirt
+COCO_train2014_000000390969.jpg	black pick up with white camper thing
+COCO_train2014_000000391088.jpg	plain icing donut next to sprinkles donut
+COCO_train2014_000000391229.jpg	what do u mean score2nd sheep
+COCO_train2014_000000391292.jpg	so close white head black eye in corner eating
+COCO_train2014_000000391488.jpg	person standing farther from camera
+COCO_train2014_000000391739.jpg	turtleneck that is not plain
+COCO_train2014_000000392180.jpg	bus by other bus part side showing
+COCO_train2014_000000392631.jpg	the one in straight line with stem pointing toward
+COCO_train2014_000000392684.jpg	we can only see the shoulder and arm of person
+COCO_train2014_000000393442.jpg	person in red dress whose umbrella is partially out of picture
+COCO_train2014_000000393629.jpg	white couch
+COCO_train2014_000000394992.jpg	person with glasses and hands clasped together twiddling thumbs
+COCO_train2014_000000395211.jpg	black bird full image
+COCO_train2014_000000395742.jpg	girl in red kicking ball
+COCO_train2014_000000395791.jpg	one with small orange container and brown stuff in it
+COCO_train2014_000000396536.jpg	white trailer
+COCO_train2014_000000397479.jpg	white truck green letters
+COCO_train2014_000000398397.jpg	blue plaid shirt nearest us totally sodomizing poor sheep
+COCO_train2014_000000399354.jpg	gray plastic part of chair under the mags very tight space
+COCO_train2014_000000399432.jpg	potted plant near white
+COCO_train2014_000000399880.jpg	man wearing very white hat standing behind man holding his had
+COCO_train2014_000000399922.jpg	person in blue next to woman with bike
+COCO_train2014_000000401439.jpg	batter
+COCO_train2014_000000402041.jpg	elephant thats between the other two
+COCO_train2014_000000402042.jpg	person sitting on red couch
+COCO_train2014_000000402245.jpg	he brown and white horse looking over fence
+COCO_train2014_000000402448.jpg	chair next to cats head
+COCO_train2014_000000402603.jpg	lower side broccoli with noodle on it
+COCO_train2014_000000402668.jpg	broccoli farthest away from the meat
+COCO_train2014_000000402806.jpg	cake with powder sugar
+COCO_train2014_000000402960.jpg	bike with yrk license plate
+COCO_train2014_000000403004.jpg	red stool with no back rest closest to camera shiny
+COCO_train2014_000000403133.jpg	food in white wrapper on table
+COCO_train2014_000000403197.jpg	look its a giraffe
+COCO_train2014_000000403221.jpg	sheep closest to the big face one
+COCO_train2014_000000403258.jpg	squats a lot
+COCO_train2014_000000403358.jpg	empty uppar part of blue chair above tower of desserts
+COCO_train2014_000000404828.jpg	man with blue jacket and red shirt under
+COCO_train2014_000000405520.jpg	black sweater no hat
+COCO_train2014_000000405964.jpg	person in green jacket on lift
+COCO_train2014_000000406034.jpg	stool with arm of child in pink on it
+COCO_train2014_000000406988.jpg	smaller gir
+COCO_train2014_000000408664.jpg	person in blue shirt
+COCO_train2014_000000408954.jpg	woman in black with glasses
+COCO_train2014_000000409126.jpg	dark car curvy headlights lights off
+COCO_train2014_000000409653.jpg	plane cut off facing us
+COCO_train2014_000000409754.jpg	gap between the bananas and the orange fruit in corner
+COCO_train2014_000000409825.jpg	gray hair guy in tie next to lady in blue
+COCO_train2014_000000410574.jpg	blue hat black shirt white shorts tennis shoes
+COCO_train2014_000000410845.jpg	bowl with white chucks close to bowl with spoon
+COCO_train2014_000000411111.jpg	black mini bus
+COCO_train2014_000000411446.jpg	black and white dog
+COCO_train2014_000000412657.jpg	computer screen behind guy
+COCO_train2014_000000413615.jpg	woman in background wearing red
+COCO_train2014_000000413874.jpg	player whose face you can see
+COCO_train2014_000000414032.jpg	animal with more of a side view of body
+COCO_train2014_000000414850.jpg	giraffe away from other two
+COCO_train2014_000000414881.jpg	person sitting with coffee
+COCO_train2014_000000416355.jpg	the girl with racket
+COCO_train2014_000000416450.jpg	man in black suit
+COCO_train2014_000000416651.jpg	guy in light blue shirt with ms on short
+COCO_train2014_000000417006.jpg	the remote with the purple and red buttons
+COCO_train2014_000000417220.jpg	the brown suitcase sitting above the red
+COCO_train2014_000000418717.jpg	lady in dress
+COCO_train2014_000000419001.jpg	elephant standng tallest with more legs on other one
+COCO_train2014_000000419026.jpg	smaller piece near spatula with larger pepperoni piec
+COCO_train2014_000000420183.jpg	broccoli next to carrot slice closest to you
+COCO_train2014_000000420620.jpg	shorter guy in leather pants
+COCO_train2014_000000420831.jpg	richard dawkins rainbow book
+COCO_train2014_000000420892.jpg	blurry part of pic at 7 o clock
+COCO_train2014_000000421208.jpg	zebra with butt to camera
+COCO_train2014_000000421488.jpg	man with necklace on
+COCO_train2014_000000422064.jpg	kid with the tie like thing around his neck
+COCO_train2014_000000422367.jpg	big elephant with man
+COCO_train2014_000000423890.jpg	pizza with white shit on it
+COCO_train2014_000000424278.jpg	base runner in blue shirt and white pants
+COCO_train2014_000000424694.jpg	white ambulance
+COCO_train2014_000000424821.jpg	player on bench with legs crossed and red socks
+COCO_train2014_000000424844.jpg	chick maybe i should call it a night lol
+COCO_train2014_000000425063.jpg	white doughnut behind the stack of 2 chocolate ones
+COCO_train2014_000000425721.jpg	tomatoes or strawberries in containers
+COCO_train2014_000000425825.jpg	black refrigerator next to main stainless steel one
+COCO_train2014_000000426478.jpg	hot dog with more visible sauerkraut
+COCO_train2014_000000426551.jpg	girl in the pink hoody
+COCO_train2014_000000427169.jpg	black form hes talking to
+COCO_train2014_000000427461.jpg	giraffe with mouth not in grate
+COCO_train2014_000000427853.jpg	red tir
+COCO_train2014_000000427920.jpg	blue chair less under umbrella
+COCO_train2014_000000428093.jpg	bigger pic of the two
+COCO_train2014_000000428109.jpg	banana touching corner of sign trumpet pointing towards it
+COCO_train2014_000000428117.jpg	the woman dressed all in purple
+COCO_train2014_000000428537.jpg	sheep facing away head up higher then those around it
+COCO_train2014_000000430244.jpg	green shirt playing
+COCO_train2014_000000430555.jpg	pink snow suite
+COCO_train2014_000000430731.jpg	laptop next to one with maps
+COCO_train2014_000000431400.jpg	motorcycle of person in white t and vest
+COCO_train2014_000000432170.jpg	player standing with face visible white shirt
+COCO_train2014_000000432372.jpg	sausage on opposite side of tongs the most browned
+COCO_train2014_000000432598.jpg	dark covers and dark gray pillow
+COCO_train2014_000000432683.jpg	a man wearing white playing tennis
+COCO_train2014_000000433240.jpg	planter underneath the cat
+COCO_train2014_000000433336.jpg	woman white goggle click on her face
+COCO_train2014_000000433647.jpg	chocolate cake on stand in foreground
+COCO_train2014_000000433662.jpg	elephant face actually facing us
+COCO_train2014_000000433921.jpg	laptop furthest from headphones
+COCO_train2014_000000434201.jpg	the apple thats in half next to the rim
+COCO_train2014_000000435076.jpg	empty chair next to man with gray hair and black tshirt
+COCO_train2014_000000435326.jpg	snow covered car closest to us that you only see windows
+COCO_train2014_000000436333.jpg	girl with bear bear has a red shirt on
+COCO_train2014_000000436620.jpg	the man who has his arm around the woman
+COCO_train2014_000000437080.jpg	dough or food next to cup looks white
+COCO_train2014_000000437547.jpg	view of train facing you
+COCO_train2014_000000438045.jpg	standing light brown shirt
+COCO_train2014_000000438196.jpg	black shirt and jeans man face away from camera
+COCO_train2014_000000438331.jpg	motorcycle with 3 people
+COCO_train2014_000000438422.jpg	man in white shirt being fed
+COCO_train2014_000000438429.jpg	sandwhich half enjoying the birghter sunlight
+COCO_train2014_000000438478.jpg	sugar donut you cant see all of it
+COCO_train2014_000000439303.jpg	all brown bear you can see all of
+COCO_train2014_000000439374.jpg	zebra with its head up
+COCO_train2014_000000439870.jpg	small sheep towards us
+COCO_train2014_000000439991.jpg	the bus nearest the people
+COCO_train2014_000000440154.jpg	the lady with the diet coke bottle in orange and glasses
+COCO_train2014_000000440389.jpg	this is a player
+COCO_train2014_000000440820.jpg	dude white shirt
+COCO_train2014_000000442461.jpg	woman holding wine glas
+COCO_train2014_000000442542.jpg	two pieces of broccoli not touching the rice
+COCO_train2014_000000442771.jpg	the black carriage thing not the black bag but the wagon thing
+COCO_train2014_000000443084.jpg	person in black
+COCO_train2014_000000443562.jpg	all black frisbee guy
+COCO_train2014_000000443741.jpg	guy in suit
+COCO_train2014_000000443944.jpg	big blue chair by the baby blue plaid couch
+COCO_train2014_000000444010.jpg	table people looking at the camera are sitting at
+COCO_train2014_000000444348.jpg	carrot with shorter green stem just above blade of knife
+COCO_train2014_000000444651.jpg	small sheep corner more gray than black for ears
+COCO_train2014_000000444692.jpg	the bleecher coming out of her ears either side
+COCO_train2014_000000445030.jpg	man almost touching the flying disc
+COCO_train2014_000000445276.jpg	big bear
+COCO_train2014_000000445392.jpg	sink you can see all of farther away from the paper towels
+COCO_train2014_000000445689.jpg	large vase behind flowers
+COCO_train2014_000000446069.jpg	the elephant that is surrounded by all the others
+COCO_train2014_000000446093.jpg	ginger beard man teal shirt
+COCO_train2014_000000446471.jpg	big white bar in background
+COCO_train2014_000000446565.jpg	the bird with all the feathers u can see i think its his back next to that bird with red on him
+COCO_train2014_000000446670.jpg	the chair facing wall with red cushion
+COCO_train2014_000000447424.jpg	red car
+COCO_train2014_000000447457.jpg	lady black shirt and blue jeans
+COCO_train2014_000000447738.jpg	pinkish flowers close to us next to yellow cross design vase
+COCO_train2014_000000448531.jpg	man with hands in pockets
+COCO_train2014_000000449197.jpg	man with stripes on apron and towel in hand
+COCO_train2014_000000449469.jpg	white truck doing the hauling of the pink car
+COCO_train2014_000000449780.jpg	blue bike next silver and black bike
+COCO_train2014_000000450162.jpg	arm covered in blood
+COCO_train2014_000000450457.jpg	last zebra with visible head
+COCO_train2014_000000450735.jpg	count three behinds either direction third one
+COCO_train2014_000000451337.jpg	tan chair by fireplace
+COCO_train2014_000000451800.jpg	not the square pizza
+COCO_train2014_000000452619.jpg	child holding orange umbrella
+COCO_train2014_000000453002.jpg	bus with only windshield showing
+COCO_train2014_000000453311.jpg	this cows tail is holded
+COCO_train2014_000000453602.jpg	brocolli in corner over noodles
+COCO_train2014_000000453620.jpg	cat with his tail on the table
+COCO_train2014_000000453686.jpg	seated man with arms crossed
+COCO_train2014_000000453906.jpg	zebra with head by the butt of the other one
+COCO_train2014_000000454002.jpg	what the cake is on
+COCO_train2014_000000454406.jpg	brocolli with a carrot on the lip of the case
+COCO_train2014_000000455079.jpg	the little girl in a blue print dress
+COCO_train2014_000000455181.jpg	the actual cat and not the reflection
+COCO_train2014_000000455358.jpg	man with face in hand
+COCO_train2014_000000455424.jpg	blue shirt white towel kid
+COCO_train2014_000000455667.jpg	white motorcycle nearest to the crowd
+COCO_train2014_000000455677.jpg	woman in black
+COCO_train2014_000000456216.jpg	the man tipping to the side throwing frisbee
+COCO_train2014_000000456545.jpg	person in black kneeling on the skateboard
+COCO_train2014_000000457190.jpg	huge white shirt on corner left
+COCO_train2014_000000457437.jpg	white umpire
+COCO_train2014_000000457555.jpg	blue mercedes truck
+COCO_train2014_000000457800.jpg	girl in pink
+COCO_train2014_000000457976.jpg	farthest cow large white stripe
+COCO_train2014_000000458172.jpg	floral pattern
+COCO_train2014_000000458633.jpg	partial black cow
+COCO_train2014_000000458827.jpg	red shoelaces
+COCO_train2014_000000460370.jpg	woman black coat with red bag
+COCO_train2014_000000460442.jpg	man blue shirt reaching in pocket
+COCO_train2014_000000460458.jpg	purple shirt jumping on skate board
+COCO_train2014_000000460568.jpg	biggest pizza in back
+COCO_train2014_000000461099.jpg	colorful thing main object of photo
+COCO_train2014_000000461908.jpg	woman in blue holding kid
+COCO_train2014_000000461996.jpg	old confused woman in pink attire nearest stop sign
+COCO_train2014_000000462957.jpg	younger boy with blue shirt and tan shorts
+COCO_train2014_000000463338.jpg	elephant with tail to us not the baby
+COCO_train2014_000000463467.jpg	light blue shirt
+COCO_train2014_000000463505.jpg	man getting hair cut
+COCO_train2014_000000463507.jpg	black and white striped shirt
+COCO_train2014_000000464166.jpg	the lady drinking from cup in white jacket
+COCO_train2014_000000464615.jpg	ball player with glove throwing
+COCO_train2014_000000464715.jpg	nearest half orange lots of skin
+COCO_train2014_000000464744.jpg	black couch partial in corner
+COCO_train2014_000000465457.jpg	bunch of bananas in corner
+COCO_train2014_000000466825.jpg	table the cakes on
+COCO_train2014_000000467145.jpg	purple sweater likely just had flatulence from facial expression
+COCO_train2014_000000468373.jpg	the lighter brown bear
+COCO_train2014_000000468818.jpg	guy in black sweater gray shirt
+COCO_train2014_000000468836.jpg	back to camera
+COCO_train2014_000000469545.jpg	man in black
+COCO_train2014_000000469825.jpg	man wearing brown shirt
+COCO_train2014_000000470393.jpg	wine glass behinde plate in middle
+COCO_train2014_000000470501.jpg	man in blue shirt
+COCO_train2014_000000470618.jpg	bus with miley finger on windsheild
+COCO_train2014_000000470893.jpg	the guys vest
+COCO_train2014_000000471096.jpg	elephant closest to camera with back turned
+COCO_train2014_000000471900.jpg	man in a red coat
+COCO_train2014_000000472654.jpg	wicker chair next to woman in pic where she is facing us
+COCO_train2014_000000472954.jpg	my bad the catcher
+COCO_train2014_000000473261.jpg	tallest girl with white shirt only
+COCO_train2014_000000473726.jpg	object sitting behind clock
+COCO_train2014_000000474123.jpg	lady with the tattoos
+COCO_train2014_000000474424.jpg	girl in green jacket
+COCO_train2014_000000475007.jpg	pizza in better focus with mushroom
+COCO_train2014_000000475037.jpg	player with red shirt and white skirt
+COCO_train2014_000000475980.jpg	edge of khaki thing at forefront of pic
+COCO_train2014_000000475988.jpg	whole bike pictured
+COCO_train2014_000000476681.jpg	the red prostitute
+COCO_train2014_000000476934.jpg	hands cutting cake both hands highlighted
+COCO_train2014_000000477005.jpg	standing man gray shirt
+COCO_train2014_000000477392.jpg	white horse
+COCO_train2014_000000477442.jpg	click table where red shirt is at think that was cats reflection
+COCO_train2014_000000477797.jpg	the two black choc frosted pieces if you went straight from hand
+COCO_train2014_000000477828.jpg	shortest black face
+COCO_train2014_000000478105.jpg	chocolate cake
+COCO_train2014_000000478712.jpg	checkered shirt and glasses
+COCO_train2014_000000478885.jpg	biggest black screen
+COCO_train2014_000000479272.jpg	green jacket back to us
+COCO_train2014_000000480576.jpg	back of head barely in picture that is cut off
+COCO_train2014_000000480741.jpg	person bent forward over device
+COCO_train2014_000000480843.jpg	black couch
+COCO_train2014_000000480908.jpg	woman
+COCO_train2014_000000480991.jpg	shiny circle on floor
+COCO_train2014_000000481292.jpg	train thats closer to us
+COCO_train2014_000000481804.jpg	person in back ground in black
+COCO_train2014_000000482251.jpg	the person not in clear view
+COCO_train2014_000000482675.jpg	person in red shirt watching from behind gate
+COCO_train2014_000000483261.jpg	the guy with the glove
+COCO_train2014_000000483611.jpg	bowl you can barley see inside
+COCO_train2014_000000484108.jpg	shirtless dude with surfboard
+COCO_train2014_000000484206.jpg	elephant thats more under water
+COCO_train2014_000000484208.jpg	sheep looking at camera
+COCO_train2014_000000485014.jpg	computer chair behind the girl
+COCO_train2014_000000485173.jpg	brown goat with horns cut off on side of pic
+COCO_train2014_000000485367.jpg	slightly shorter guy slightly darker suit
+COCO_train2014_000000485632.jpg	toilet that shows a handle on the side
+COCO_train2014_000000485800.jpg	old man standing not sitting
+COCO_train2014_000000485868.jpg	back of head seen just over cake
+COCO_train2014_000000486936.jpg	chair at table in view near the domed dish
+COCO_train2014_000000487602.jpg	the kite the little boy is holding
+COCO_train2014_000000488127.jpg	person with camp hat on not the person cutting the cake
+COCO_train2014_000000488139.jpg	largest elephant
+COCO_train2014_000000488160.jpg	brown animal
+COCO_train2014_000000489971.jpg	woman in black tank3
+COCO_train2014_000000490490.jpg	green purse
+COCO_train2014_000000490712.jpg	blurry fan behind hitter closest to his glove
+COCO_train2014_000000491204.jpg	chair with yellow flower plate
+COCO_train2014_000000491273.jpg	women
+COCO_train2014_000000491739.jpg	brown horse with the black horse at side
+COCO_train2014_000000492138.jpg	woman with goggles
+COCO_train2014_000000492293.jpg	grand bazar blue
+COCO_train2014_000000493114.jpg	girl sitting at table with cake
+COCO_train2014_000000493307.jpg	just the hands up front
+COCO_train2014_000000493471.jpg	person in background with whitish fringy pants
+COCO_train2014_000000493504.jpg	white keyboard attached to computer
+COCO_train2014_000000494032.jpg	person on other side of fence
+COCO_train2014_000000494174.jpg	red car that is not the corvette
+COCO_train2014_000000494175.jpg	arms holding the blackberry phone with a black bracelet
+COCO_train2014_000000494552.jpg	larger white chair closer to us
+COCO_train2014_000000495344.jpg	umbrella with a yellow piece hanging on the inside
+COCO_train2014_000000495528.jpg	the white drink
+COCO_train2014_000000495609.jpg	elephant near cam
+COCO_train2014_000000495902.jpg	carrot closest to white paw by cats face
+COCO_train2014_000000496752.jpg	elephant butt behind or beside the baby one
+COCO_train2014_000000497296.jpg	girl standing no part blocking or being blocked
+COCO_train2014_000000497311.jpg	section of table along edge which has fork close to edge
+COCO_train2014_000000497522.jpg	sailboat mast closest to side edge of picture
+COCO_train2014_000000498295.jpg	whine glass with the least amount of whine
+COCO_train2014_000000498639.jpg	little girl between green shirt boy and brown shirt boy
+COCO_train2014_000000498770.jpg	part of broccoli blurred at corner lighted side
+COCO_train2014_000000498938.jpg	legs with striped socks
+COCO_train2014_000000500662.jpg	red clue white suitcase
+COCO_train2014_000000500982.jpg	person furthest away
+COCO_train2014_000000501177.jpg	the boy on a phone
+COCO_train2014_000000501710.jpg	police officer with the baggier jacket
+COCO_train2014_000000501842.jpg	white car with smaller back window
+COCO_train2014_000000502015.jpg	woman standing up
+COCO_train2014_000000502470.jpg	bird closest to rock
+COCO_train2014_000000502504.jpg	guy with apron touching chest click on his arm
+COCO_train2014_000000502726.jpg	sofa with something black and white on it
+COCO_train2014_000000503227.jpg	glazed donut directly beneath chocolate glazed
+COCO_train2014_000000503478.jpg	cup closest to cell phone with a full drink in it
+COCO_train2014_000000504566.jpg	lady facing john kerry with a blue shirt on
+COCO_train2014_000000504769.jpg	person with black shirt
+COCO_train2014_000000504878.jpg	no handle middle way down other side of black not woman side
+COCO_train2014_000000505884.jpg	pale blue jacket
+COCO_train2014_000000505898.jpg	the one with the m on their shirt
+COCO_train2014_000000506030.jpg	lady reaching for cake
+COCO_train2014_000000507215.jpg	pair of dark jeans barely can see them near phone opposite side
+COCO_train2014_000000507642.jpg	giraffe that is not the smallest or biggest
+COCO_train2014_000000507952.jpg	pizza slice not completely covered isn greens has black olive
+COCO_train2014_000000508140.jpg	the car closest to the cop and the sign
+COCO_train2014_000000508429.jpg	kid in orange shirt on the bench
+COCO_train2014_000000508504.jpg	couch behind the guy on the west
+COCO_train2014_000000509269.jpg	the bear with claws you can see
+COCO_train2014_000000509555.jpg	pick green
+COCO_train2014_000000510591.jpg	toilet bowl close to us
+COCO_train2014_000000510680.jpg	upper blurry banana close to rounds remaining
+COCO_train2014_000000510977.jpg	girl holding glass
+COCO_train2014_000000511036.jpg	piece of bread with shit in it
+COCO_train2014_000000511580.jpg	picture of darker reddish brown sauce
+COCO_train2014_000000511642.jpg	car with dark black stripe
+COCO_train2014_000000512662.jpg	black guy in white only shirt
+COCO_train2014_000000512951.jpg	girl close to computer wearing red shirt
+COCO_train2014_000000513643.jpg	larger piece of upside down broccoli thats near the rice
+COCO_train2014_000000514064.jpg	dark brown with no writing pastry
+COCO_train2014_000000514435.jpg	girl in black
+COCO_train2014_000000514622.jpg	blue eyed man smiling
+COCO_train2014_000000515053.jpg	man with dark suit light blue tie glasses by flag
+COCO_train2014_000000515181.jpg	red googles with a bunch skiers
+COCO_train2014_000000515229.jpg	motorcycle man is sitting on
+COCO_train2014_000000515401.jpg	suitcase at edge not part in corner more level with cat
+COCO_train2014_000000515623.jpg	bike with wheels closest to wall not number 1
+COCO_train2014_000000516263.jpg	one with slightly thinner head
+COCO_train2014_000000516481.jpg	woman with white purse on edge of pic
+COCO_train2014_000000516791.jpg	dirty coffee cup near green napikin
+COCO_train2014_000000518552.jpg	urinal farther away from side wall
+COCO_train2014_000000518918.jpg	part of white spoon on not fully viisible bowl
+COCO_train2014_000000519205.jpg	bear partially hidden by plants and tree
+COCO_train2014_000000519626.jpg	piece touching tip of piece with parsley
+COCO_train2014_000000520199.jpg	dark blue shirt facing away
+COCO_train2014_000000520831.jpg	lady in orange and cream coat
+COCO_train2014_000000521064.jpg	not the full banana the other one
+COCO_train2014_000000521184.jpg	animal near the building
+COCO_train2014_000000521366.jpg	woman
+COCO_train2014_000000521618.jpg	sheep that is not really visible
+COCO_train2014_000000521800.jpg	white donut close to bowl brown sugar
+COCO_train2014_000000522146.jpg	orange and black raft in corner
+COCO_train2014_000000522365.jpg	stem up broccoli
+COCO_train2014_000000522462.jpg	regular chocolate muffin 11 o clock
+COCO_train2014_000000522771.jpg	man with the striped shirt
+COCO_train2014_000000523455.jpg	guy in white shirt
+COCO_train2014_000000523561.jpg	farthest pice of sandwich
+COCO_train2014_000000523907.jpg	something blue alongside hot dog at edge i honestly have no idea what it is
+COCO_train2014_000000524710.jpg	knife in napkin number 4 from lower earth
+COCO_train2014_000000524925.jpg	white blue red plane
+COCO_train2014_000000526552.jpg	darker arm reaching for food in plate
+COCO_train2014_000000526597.jpg	man with white on shirt
+COCO_train2014_000000526754.jpg	crap im sorry this one big zebra we see all of
+COCO_train2014_000000527796.jpg	white jacket
+COCO_train2014_000000528224.jpg	umpire facing away
+COCO_train2014_000000528408.jpg	the legs of the larger white stuffed dog
+COCO_train2014_000000529345.jpg	cup of water slightly off screen
+COCO_train2014_000000530132.jpg	bus we can see the whole thing
+COCO_train2014_000000530750.jpg	man facing away from camera wearing gray and white jacket
+COCO_train2014_000000531388.jpg	wicker couch without any white
+COCO_train2014_000000531444.jpg	the yellow butter sauce
+COCO_train2014_000000531550.jpg	full size goose with neck bent
+COCO_train2014_000000531752.jpg	almost least visible hotdog with white topping
+COCO_train2014_000000531873.jpg	long carrot that hasnt been peeled yet
+COCO_train2014_000000532505.jpg	couch part under woman in shit under her arm
+COCO_train2014_000000532595.jpg	water glass cut off near salt and pepper
+COCO_train2014_000000533293.jpg	tie with blue flower like petal pattern
+COCO_train2014_000000533897.jpg	broccoli whose floret is on the same side as the fish
+COCO_train2014_000000534772.jpg	the man with sunglasses and hands in air
+COCO_train2014_000000535049.jpg	chair green
+COCO_train2014_000000535101.jpg	the horse in the background
+COCO_train2014_000000535229.jpg	clear bottle between candles without yellow cap
+COCO_train2014_000000535561.jpg	the kid under the imbrella
+COCO_train2014_000000536054.jpg	person in black more in shadow but you can see the whole person
+COCO_train2014_000000536576.jpg	the zebra with straight up ears
+COCO_train2014_000000537097.jpg	guy with black and white shorts
+COCO_train2014_000000537371.jpg	man in blue shirt
+COCO_train2014_000000537720.jpg	the elephant in the room
+COCO_train2014_000000538263.jpg	umpire in background
+COCO_train2014_000000538398.jpg	striped long pillow
+COCO_train2014_000000538544.jpg	glass with water condensation on glass
+COCO_train2014_000000538633.jpg	woman
+COCO_train2014_000000539167.jpg	the runner with the helmet
+COCO_train2014_000000539647.jpg	pink shirt holding cake by not cake itself cause cakes a lie
+COCO_train2014_000000539851.jpg	man wearing stripped shirt
+COCO_train2014_000000540436.jpg	wooden part of table closest to the people
+COCO_train2014_000000540464.jpg	banana closet to us with less black marks
+COCO_train2014_000000541212.jpg	person in black shirt with head cut off
+COCO_train2014_000000541440.jpg	blurry man in background behind players arm
+COCO_train2014_000000541505.jpg	medium height yellow thing
+COCO_train2014_000000542027.jpg	silver laptop with the screen closed
+COCO_train2014_000000542160.jpg	player behind other players
+COCO_train2014_000000542452.jpg	blurry woman in light blue jacket
+COCO_train2014_000000542936.jpg	the adult zebra
+COCO_train2014_000000543790.jpg	sliced piece of bread or cake
+COCO_train2014_000000543833.jpg	big green flowers in vase
+COCO_train2014_000000544109.jpg	man in blue shirt lookin at you
+COCO_train2014_000000544831.jpg	book with remote inside
+COCO_train2014_000000545214.jpg	the guy not wearing flippers
+COCO_train2014_000000545793.jpg	girl with black tank
+COCO_train2014_000000545832.jpg	the grill of truck
+COCO_train2014_000000546242.jpg	bench with most reflection on edge
+COCO_train2014_000000546301.jpg	gray luggae sitting next to the red luggage
+COCO_train2014_000000547315.jpg	a guiness pint glass is half full of dark beer
+COCO_train2014_000000547348.jpg	shoulder of off screen person in black
+COCO_train2014_000000547795.jpg	girl in back ground with white short sleeve shirt
+COCO_train2014_000000548215.jpg	partial person
+COCO_train2014_000000548935.jpg	in black guarding 33
+COCO_train2014_000000549184.jpg	man in white t shirt
+COCO_train2014_000000549347.jpg	white t shirt man wearing glass and looking back
+COCO_train2014_000000549366.jpg	nearest zebra completely in frame
+COCO_train2014_000000550129.jpg	giraffe not seen completely
+COCO_train2014_000000550134.jpg	elephant person in blue is sitting on
+COCO_train2014_000000550311.jpg	black dude with white straw in mouth
+COCO_train2014_000000550354.jpg	wearing white jacket
+COCO_train2014_000000550532.jpg	furthest meter
+COCO_train2014_000000550760.jpg	a man wearing glasses and checked shirt
+COCO_train2014_000000550911.jpg	the person playing tennis
+COCO_train2014_000000551197.jpg	white and green bus with number 16
+COCO_train2014_000000551710.jpg	the man in the suit and blue tie behind the old womans arm
+COCO_train2014_000000551793.jpg	zebra kissing other zebra
+COCO_train2014_000000551814.jpg	lil girl
+COCO_train2014_000000552617.jpg	the person with the back of his head showing
+COCO_train2014_000000553284.jpg	man with leg bent back just for you
+COCO_train2014_000000553498.jpg	man with do rag and red frisbee
+COCO_train2014_000000553586.jpg	sandwich leaning on another
+COCO_train2014_000000554598.jpg	purple couch closest to window
+COCO_train2014_000000554699.jpg	pork slices with scisssor tong looking thing on it
+COCO_train2014_000000555022.jpg	the couch in back
+COCO_train2014_000000555654.jpg	motorcycle with all black wheel
+COCO_train2014_000000555771.jpg	zebra closest west edge and i didnt notice other stache p
+COCO_train2014_000000556011.jpg	zebra that has darkest stripes
+COCO_train2014_000000556399.jpg	smaller object by blue mouse
+COCO_train2014_000000557527.jpg	man barely in the picture
+COCO_train2014_000000557628.jpg	man near sink holding cup
+COCO_train2014_000000558372.jpg	woman plaid capris
+COCO_train2014_000000559760.jpg	giraffe closest to people
+COCO_train2014_000000559949.jpg	person in coat looking away
+COCO_train2014_000000560152.jpg	book next the the purple book
+COCO_train2014_000000560525.jpg	the green comic under the road to mars book
+COCO_train2014_000000560532.jpg	hot furtherest and closest to soda
+COCO_train2014_000000560576.jpg	boy with dark hair green shirt crouching near blond girl
+COCO_train2014_000000561028.jpg	referee in background
+COCO_train2014_000000561593.jpg	guy with mask
+COCO_train2014_000000561624.jpg	person solid black shirt hands at crotch wearing glasses
+COCO_train2014_000000562014.jpg	woman with black shirt
+COCO_train2014_000000562063.jpg	standing woman with short dress and visible legs
+COCO_train2014_000000562559.jpg	lots of small brocoli
+COCO_train2014_000000563617.jpg	man wearing shirt and shorts carrying a surfboard
+COCO_train2014_000000563679.jpg	zebra being hit by the other zebras tail
+COCO_train2014_000000563764.jpg	giraffe closest to you
+COCO_train2014_000000564228.jpg	screen with mostly white
+COCO_train2014_000000564676.jpg	man on one knee looking at camera
+COCO_train2014_000000565220.jpg	hot dog with less chili
+COCO_train2014_000000565243.jpg	man in striped shirt
+COCO_train2014_000000565476.jpg	banana with two medium brown spots on stem
+COCO_train2014_000000565769.jpg	the elephant with the trunk near the mud puddle
+COCO_train2014_000000565884.jpg	elephant with trunk curled
+COCO_train2014_000000566395.jpg	silver car
+COCO_train2014_000000566798.jpg	woman
+COCO_train2014_000000567189.jpg	the large black suitcase
+COCO_train2014_000000567199.jpg	look here young man saty outta my way
+COCO_train2014_000000567964.jpg	hand holding up the hot dog
+COCO_train2014_000000568272.jpg	bigger zebra butt
+COCO_train2014_000000568654.jpg	bigger cow
+COCO_train2014_000000568873.jpg	purple shirt with back to the camera
+COCO_train2014_000000569613.jpg	elephant that is standing in grass
+COCO_train2014_000000570178.jpg	broccoli whose stem is pointing more upwards than sideways
+COCO_train2014_000000570440.jpg	player with head down in the back
+COCO_train2014_000000571541.jpg	all white truck except for blue wheel well
+COCO_train2014_000000571671.jpg	the black cat
+COCO_train2014_000000572949.jpg	arm of chair that guy in green is sitting on closest to us and corner
+COCO_train2014_000000572960.jpg	batter on his toes
+COCO_train2014_000000573125.jpg	the man with white shirt that has writing in black shorts with scissors
+COCO_train2014_000000573632.jpg	triangle of a sandwich third through way that english is read
+COCO_train2014_000000573875.jpg	black motorcycle behind blue motorcycle
+COCO_train2014_000000574251.jpg	bag that is almost the tallest black handle
+COCO_train2014_000000574870.jpg	shorter person
+COCO_train2014_000000575461.jpg	woman in pink
+COCO_train2014_000000575826.jpg	the guy in the jacket
+COCO_train2014_000000576581.jpg	all we can see are his hindquarters
+COCO_train2014_000000576829.jpg	mattress on iron bed
+COCO_train2014_000000577399.jpg	girl brushing teeth with elbow out
+COCO_train2014_000000577558.jpg	the spider taco with a lot of green stuffs
+COCO_train2014_000000577583.jpg	person sleeping white blanket farthest
+COCO_train2014_000000578805.jpg	dark haired boy in black both hands up
+COCO_train2014_000000578808.jpg	woman in white closer to lephant
+COCO_train2014_000000579440.jpg	woman sitting on the red sofa
+COCO_train2014_000000579667.jpg	cat drinking from faucet
+COCO_train2014_000000580008.jpg	red shirt black jacket covering arms fully holding wiimote at face level
+COCO_train2014_000000580374.jpg	dark haired guy looking like a killer
+COCO_train2014_000000580785.jpg	so sorry tiredlady in white pants
+COCO_train2014_000000580905.jpg	pink shirt
+COCO_train2014_000000580957.jpg	white bowl with vertical stripes

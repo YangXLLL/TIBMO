@@ -1,0 +1,59 @@
+#test_file: 'data/official/flickr30k_test1k.json'
+#test_file: 'data/official/flickr30k_pwwsadv.json'
+#原本的
+#test_file: 'data/official/flickr30k_test1k.json'
+#image_root: 'data/flickr30k/' #flickr30k-images/
+#
+#test_file: 'data/official/1ktextjpg.json'
+#image_root: 'data/image1k' #flickr30k-images/
+
+#test_file: 'data/official/1ktextclipqianyi.json'##这个是用albef作为代理模型去生成对抗图像然后用作迁移攻击
+#image_root: 'image_coattack_coattack' #flickr30k-images/
+#image_root: 'image_coattack_imagetext' #flickr30k-images/
+#image_root: 'image_coattack_image' #flickr30k-images/
+#image_root: 'image_coattack_text' #flickr30k-images/
+
+
+
+
+
+##用于测试MDA的
+test_file: 'data/official/1ktext.json'
+#image_root: 'data/output-mda-albef'
+#image_root: 'data/output-mda-tcl-wugongjixing'
+image_root: 'data/output-mda-tcl-text6'
+
+
+bert_config: 'configs/config_bert.json'
+
+image_res: 384
+batch_size_train: 32
+batch_size_test: 5
+
+queue_size: 65536
+momentum: 0.995
+vision_width: 768
+embed_dim: 256
+#embed_dim: 512
+temp: 0.07
+#k_test: 128
+k_test: 20
+#k_test: 1000
+#k_test: 128
+
+epsilon: 2
+num_iters: 10
+
+alpha: 0.4
+distill: False
+warm_up: True
+
+optimizer: {opt: adamW, lr: 1e-5, weight_decay: 0.02} 
+schedular: {sched: cosine, lr: 1e-5, epochs: 10, min_lr: 1e-6, decay_rate: 1, warmup_lr: 1e-5, warmup_epochs: 1, cooldown_epochs: 0}
+
+
+
+
+
+
+
