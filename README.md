@@ -9,3 +9,6 @@ See in requirements.txt.
 - Dataset json files for downstream tasks [[ALBEF github]](https://github.com/salesforce/ALBEF)
 - Finetuned checkpoint for ALBEF [[ALBEF github]](https://github.com/salesforce/ALBEF)
 - Finetuned checkpoint for TCL [[TCL github]](https://github.com/uta-smile/TCL)
+
+3. Generate adversarial examples
+   python main_generate.py
